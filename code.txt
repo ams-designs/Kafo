@@ -1,0 +1,5713 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <meta content="#2457C5" name="theme-color"/>
+  <meta content="Kafo brings people together to collect contributions and track every dalasi." name="description"/>
+  <title>
+   Kafo — Better, together
+  </title>
+  <link href="manifest.webmanifest" rel="manifest"/>
+  <link href="assets/kafo-mark.svg" rel="icon"/>
+  <link href="styles.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <aside class="sidebar" id="sidebar">
+   <a class="brand" href="#home">
+    <span class="mark">
+     +
+    </span>
+    <span>
+     <b>
+      kafo
+     </b>
+     <small>
+      Better, together.
+     </small>
+    </span>
+   </a>
+   <p class="overline">
+    WORKSPACE
+   </p>
+   <nav>
+    <button class="nav active" data-view="home">
+     ⌂
+     <span>
+      Home
+     </span>
+    </button>
+    <button class="nav" data-view="discover">
+     ⌕
+     <span>
+      Discover
+     </span>
+     <i>
+      3
+     </i>
+    </button>
+    <button class="nav" data-view="groups">
+     ♧
+     <span>
+      My groups
+     </span>
+    </button>
+    <button class="nav" data-view="activity">
+     ◷
+     <span>
+      Activity
+     </span>
+    </button>
+   </nav>
+   <div class="sidebar-bottom">
+    <div class="help">
+     <b>
+      Need a hand?
+     </b>
+     <p>
+      Learn how Kafo keeps your group organised.
+     </p>
+     <button class="text" id="help">
+      Visit help centre →
+     </button>
+    </div>
+    <button class="user-row" data-view="profile">
+     <span class="avatar">
+      AM
+     </span>
+     <span>
+      <b>
+       Amie Manneh
+      </b>
+      <small>
+       Personal account
+      </small>
+     </span>
+     <span class="dots">
+      •••
+     </span>
+    </button>
+   </div>
+  </aside>
+  <main>
+   <header class="topbar">
+    <button aria-label="Open menu" class="hamb" id="menu">
+     ☰
+    </button>
+    <div class="crumb">
+     Workspace
+     <span>
+      /
+     </span>
+     <b id="crumb">
+      Home
+     </b>
+    </div>
+    <div class="top-actions">
+     <button aria-label="Notifications" class="icon-button" id="notifications">
+      ♧
+      <i>
+      </i>
+     </button>
+     <span class="divider">
+     </span>
+     <button class="user-top" data-view="profile">
+      <span class="avatar">
+       AM
+      </span>
+      <span>
+       Amie Manneh
+      </span>
+      ⌄
+     </button>
+    </div>
+   </header>
+   <div class="container">
+    <section class="view active" id="view-home">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        THURSDAY, 15 OCTOBER 2026
+       </p>
+       <h1>
+        Good morning, Amie
+       </h1>
+       <p class="sub">
+        Here’s what’s happening with your community today.
+       </p>
+      </div>
+      <button class="primary" data-action="create">
+       ＋ Create a group
+      </button>
+     </div>
+     <div class="hero">
+      <div class="hero-copy">
+       <p class="eyebrow">
+        ● COMMUNITY, MADE SIMPLE
+       </p>
+       <h2>
+        Small contributions.
+        <br/>
+        <em>
+         Big things together.
+        </em>
+       </h2>
+       <p>
+        Bring your people together, collect contributions, and keep every dalasi accounted for.
+       </p>
+       <button class="light" data-view="discover">
+        Explore public fundraisers →
+       </button>
+      </div>
+      <div class="hero-art">
+       <div class="ring r1">
+       </div>
+       <div class="ring r2">
+       </div>
+       <span class="person p1">
+        A
+       </span>
+       <span class="person p2">
+        F
+       </span>
+       <span class="person p3">
+        M
+       </span>
+       <span class="person p4">
+        S
+       </span>
+       <div class="hero-mark">
+        ＋
+       </div>
+       <span class="bubble b1">
+        Family support
+       </span>
+       <span class="bubble b2">
+        Community
+       </span>
+      </div>
+     </div>
+     <div class="section-head">
+      <div>
+       <h2>
+        Your overview
+       </h2>
+       <p class="sub">
+        A quick look at your groups and contributions.
+       </p>
+      </div>
+      <button class="text" data-view="groups">
+       View all groups →
+      </button>
+     </div>
+     <div class="stats">
+      <article class="stat">
+       <div class="stat-label">
+        Total contributed
+        <span class="stat-ico mint">
+         ↗
+        </span>
+       </div>
+       <strong>
+        D 8,450
+        <small>
+         +12.5%
+        </small>
+       </strong>
+       <p>
+        Across your active groups
+       </p>
+      </article>
+      <article class="stat">
+       <div class="stat-label">
+        Active groups
+        <span class="stat-ico sand">
+         ♧
+        </span>
+       </div>
+       <strong>
+        4
+       </strong>
+       <p>
+        2 groups need your attention
+       </p>
+      </article>
+      <article class="stat">
+       <div class="stat-label">
+        Pending confirmations
+        <span class="stat-ico lilac">
+         ◷
+        </span>
+       </div>
+       <strong>
+        D 1,200
+       </strong>
+       <p>
+        2 contributions awaiting review
+       </p>
+      </article>
+     </div>
+     <div class="two-col">
+      <article class="panel">
+       <div class="panel-head">
+        <div>
+         <h3>
+          Your groups
+         </h3>
+         <p>
+          The communities you’re part of.
+         </p>
+        </div>
+        <button class="text" data-view="groups">
+         All groups
+        </button>
+       </div>
+       <div id="homeGroups">
+       </div>
+       <button class="panel-link" data-view="groups">
+        See all groups →
+       </button>
+      </article>
+      <article class="panel">
+       <div class="panel-head">
+        <div>
+         <h3>
+          Recent activity
+         </h3>
+         <p>
+          The latest from your groups.
+         </p>
+        </div>
+        <button class="text" data-view="activity">
+         See all
+        </button>
+       </div>
+       <div id="homeActivity">
+       </div>
+      </article>
+     </div>
+     <div class="discover-callout">
+      <div>
+       <p class="overline">
+        OPEN TO EVERYONE
+       </p>
+       <h3>
+        People are coming together for good.
+       </h3>
+       <p>
+        Discover public fundraisers and support a cause that matters.
+       </p>
+      </div>
+      <button class="secondary" data-view="discover">
+       Discover fundraisers →
+      </button>
+     </div>
+    </section>
+    <section class="view" id="view-groups">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        YOUR COMMUNITIES
+       </p>
+       <h1>
+        My groups
+       </h1>
+       <p class="sub">
+        All the circles you’re part of, in one place.
+       </p>
+      </div>
+      <button class="primary" data-action="create">
+       ＋ Create a group
+      </button>
+     </div>
+     <div class="toolbar">
+      <label class="search">
+       ⌕
+       <input id="groupSearch" placeholder="Search your groups"/>
+      </label>
+      <select id="groupFilter">
+       <option value="all">
+        All groups
+       </option>
+       <option value="active">
+        Active
+       </option>
+       <option value="completed">
+        Completed
+       </option>
+      </select>
+     </div>
+     <div class="cards" id="allGroups">
+     </div>
+    </section>
+    <section class="view" id="view-discover">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        GOOD THINGS START TOGETHER
+       </p>
+       <h1>
+        Discover fundraisers
+       </h1>
+       <p class="sub">
+        Find a cause, support a neighbour, make a difference.
+       </p>
+      </div>
+      <button class="secondary" id="discoverInfo">
+       ⓘ How discovery works
+      </button>
+     </div>
+     <div class="discover-hero">
+      <p class="overline">
+       COMMUNITY POWER
+      </p>
+      <h2>
+       Every little bit
+       <br/>
+       moves us forward.
+      </h2>
+      <p>
+       Browse public fundraisers shared by people and communities. Your support can make a real difference.
+      </p>
+      <div class="feature-stats">
+       <span>
+        <b>
+         Public
+        </b>
+        <small>
+         campaigns only
+        </small>
+       </span>
+       <span>
+        <b>
+         Clear
+        </b>
+        <small>
+         progress updates
+        </small>
+       </span>
+       <span>
+        <b>
+         Community
+        </b>
+        <small>
+         led by people
+        </small>
+       </span>
+      </div>
+     </div>
+     <div class="toolbar discover-tools">
+      <label class="search">
+       ⌕
+       <input id="discoverSearch" placeholder="Search by name or cause"/>
+      </label>
+      <div class="filters" id="filters">
+       <button class="filter active" data-cat="All">
+        All causes
+       </button>
+       <button class="filter" data-cat="Health">
+        Health
+       </button>
+       <button class="filter" data-cat="Education">
+        Education
+       </button>
+       <button class="filter" data-cat="Community">
+        Community
+       </button>
+       <button class="filter" data-cat="Family">
+        Family
+       </button>
+      </div>
+     </div>
+     <div class="cards" id="discoverGrid">
+     </div>
+    </section>
+    <section class="view" id="view-detail">
+     <button class="back" id="back">
+      ← Back to groups
+     </button>
+     <div id="detail">
+     </div>
+    </section>
+    <section class="view" id="view-create">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        START SOMETHING GOOD
+       </p>
+       <h1>
+        Create a group
+       </h1>
+       <p class="sub">
+        Bring your people together around a shared goal.
+       </p>
+      </div>
+      <button class="secondary" data-view="groups">
+       Cancel
+      </button>
+     </div>
+     <div class="create-layout">
+      <article class="panel create-panel">
+       <div class="steps">
+        <span class="step active" data-step-label="1">
+         <b>
+          1
+         </b>
+         <span>
+          Purpose
+          <small>
+           Why are you gathering?
+          </small>
+         </span>
+        </span>
+        <i>
+        </i>
+        <span class="step" data-step-label="2">
+         <b>
+          2
+         </b>
+         <span>
+          Details
+          <small>
+           Name and goal
+          </small>
+         </span>
+        </span>
+        <i>
+        </i>
+        <span class="step" data-step-label="3">
+         <b>
+          3
+         </b>
+         <span>
+          Access
+          <small>
+           Who can join?
+          </small>
+         </span>
+        </span>
+       </div>
+       <form id="createForm">
+        <div class="form-step active" data-step="1">
+         <h2>
+          What is this group for?
+         </h2>
+         <p class="sub">
+          Choose the purpose that best describes your group.
+         </p>
+         <div class="purposes">
+          <label>
+           <input name="purpose" required="" type="radio" value="Health"/>
+           <span>
+            ♡
+           </span>
+           <b>
+            Medical support
+           </b>
+           <small>
+            Health or emergency costs
+           </small>
+          </label>
+          <label>
+           <input name="purpose" type="radio" value="Family"/>
+           <span>
+            ⌂
+           </span>
+           <b>
+            Family support
+           </b>
+           <small>
+            Support for loved ones
+           </small>
+          </label>
+          <label>
+           <input name="purpose" type="radio" value="Celebration"/>
+           <span>
+            ✳
+           </span>
+           <b>
+            Celebration
+           </b>
+           <small>
+            Wedding, naming or event
+           </small>
+          </label>
+          <label>
+           <input name="purpose" type="radio" value="Community"/>
+           <span>
+            ♧
+           </span>
+           <b>
+            Community project
+           </b>
+           <small>
+            Build or improve together
+           </small>
+          </label>
+          <label>
+           <input name="purpose" type="radio" value="Education"/>
+           <span>
+            ▱
+           </span>
+           <b>
+            Education
+           </b>
+           <small>
+            School fees or supplies
+           </small>
+          </label>
+          <label>
+           <input name="purpose" type="radio" value="Other"/>
+           <span>
+            ＋
+           </span>
+           <b>
+            Something else
+           </b>
+           <small>
+            Any shared purpose
+           </small>
+          </label>
+         </div>
+         <div class="form-actions">
+          <small>
+           You can change details later.
+          </small>
+          <button class="primary" data-next="2" type="button">
+           Continue →
+          </button>
+         </div>
+        </div>
+        <div class="form-step" data-step="2">
+         <h2>
+          Tell us about your group
+         </h2>
+         <p class="sub">
+          A clear name helps everyone understand the goal.
+         </p>
+         <label class="field">
+          Group name
+          <em>
+           *
+          </em>
+          <input class="input" id="newName" maxlength="70" name="name" placeholder="e.g. Mariama's medical support" required=""/>
+         </label>
+         <label class="field">
+          What is this group for?
+          <textarea class="input" maxlength="300" name="description" placeholder="Share a little context with your members" rows="3"></textarea>
+         </label>
+         <div class="form-row">
+          <label class="field">
+           Target amount (GMD)
+           <input class="input" min="0" name="target" placeholder="e.g. 15000" step="1" type="number"/>
+          </label>
+          <label class="field">
+           Optional deadline
+           <input class="input" name="deadline" type="date"/>
+          </label>
+         </div>
+         <div class="form-actions">
+          <button class="secondary" data-prev="1" type="button">
+           ← Back
+          </button>
+          <button class="primary" data-next="3" type="button">
+           Continue →
+          </button>
+         </div>
+        </div>
+        <div class="form-step" data-step="3">
+         <h2>
+          Who can see and join?
+         </h2>
+         <p class="sub">
+          You’re in control of your group’s visibility.
+         </p>
+         <div class="access">
+          <label>
+           <input checked="" name="visibility" type="radio" value="public"/>
+           <span>
+            ◉
+           </span>
+           <div>
+            <b>
+             Public
+            </b>
+            <small>
+             Anyone can discover this group.
+            </small>
+           </div>
+          </label>
+          <label>
+           <input name="visibility" type="radio" value="link"/>
+           <span>
+            ↗
+           </span>
+           <div>
+            <b>
+             Link-only
+            </b>
+            <small>
+             Only people with your link can find it. Links can be forwarded.
+            </small>
+           </div>
+          </label>
+          <label>
+           <input name="visibility" type="radio" value="private"/>
+           <span>
+            ▣
+           </span>
+           <div>
+            <b>
+             Private
+            </b>
+            <small>
+             For invited members. Not listed publicly.
+            </small>
+           </div>
+          </label>
+         </div>
+         <div class="notice">
+          <b>
+           Demo only
+          </b>
+          <br/>
+          This prototype does not collect real money. Changes are saved in this browser only.
+         </div>
+         <div class="form-actions">
+          <button class="secondary" data-prev="2" type="button">
+           ← Back
+          </button>
+          <button class="primary" type="submit">
+           Create group →
+          </button>
+         </div>
+        </div>
+       </form>
+      </article>
+      <aside class="panel preview">
+       <p class="overline">
+        GROUP PREVIEW
+       </p>
+       <div class="preview-art">
+        ♧
+       </div>
+       <h3 id="previewName">
+        Your group name
+       </h3>
+       <p id="previewPurpose">
+        Your shared purpose
+       </p>
+       <hr/>
+       <div>
+        <span>
+         Target
+        </span>
+        <b id="previewTarget">
+         Not set
+        </b>
+       </div>
+       <div>
+        <span>
+         Visibility
+        </span>
+        <b id="previewVisibility">
+         Public
+        </b>
+       </div>
+       <small>
+        You can update group settings after creating it.
+       </small>
+      </aside>
+     </div>
+    </section>
+    <section class="view" id="view-activity">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        KEEPING YOU IN THE LOOP
+       </p>
+       <h1>
+        Activity
+       </h1>
+       <p class="sub">
+        A running record of what’s happening across your groups.
+       </p>
+      </div>
+     </div>
+     <article class="panel">
+      <div class="panel-head">
+       <div>
+        <h3>
+         All recent activity
+        </h3>
+        <p>
+         Sample activity from your groups.
+        </p>
+       </div>
+       <span class="pill">
+        Latest first
+       </span>
+      </div>
+      <div id="allActivity">
+      </div>
+     </article>
+    </section>
+    <section class="view" id="view-profile">
+     <div class="heading">
+      <div>
+       <p class="overline">
+        YOUR ACCOUNT
+       </p>
+       <h1>
+        Profile &amp; settings
+       </h1>
+       <p class="sub">
+        Manage your personal details and preferences.
+       </p>
+      </div>
+      <button class="secondary" id="editProfile">
+       Edit profile
+      </button>
+     </div>
+     <div class="profile-layout">
+      <article class="panel profile-card">
+       <div class="profile-cover">
+       </div>
+       <div class="profile-intro">
+        <span class="avatar big">
+         AM
+        </span>
+        <h2 id="profileHeading">
+         Amie Manneh
+        </h2>
+        <p class="sub">
+         Member since October 2025
+        </p>
+        <span class="pill green">
+         ✓ Demo profile
+        </span>
+       </div>
+       <div class="profile-info">
+        <div>
+         <span>
+          Full name
+         </span>
+         <b id="profileName">
+          Amie Manneh
+         </b>
+        </div>
+        <div>
+         <span>
+          Email address
+         </span>
+         <b id="profileEmail">
+          amie@example.com
+         </b>
+        </div>
+        <div>
+         <span>
+          Phone number
+         </span>
+         <b>
+          +220 700 0000
+         </b>
+        </div>
+        <div>
+         <span>
+          Preferred currency
+         </span>
+         <b>
+          Gambian dalasi (GMD)
+         </b>
+        </div>
+       </div>
+      </article>
+      <article class="panel account-summary">
+  <div class="panel-head">
+    <div>
+      <h3>Account overview</h3>
+      <p>Your personal Kafo details at a glance.</p>
+    </div>
+    <span class="account-status">
+      Demo account
+    </span>
+  </div>
+
+  <div class="account-summary-grid">
+    <div class="account-summary-item">
+      <span class="account-summary-icon">G</span>
+      <div>
+        <b id="accountGroupCount">0</b>
+        <small>Your groups</small>
+      </div>
+    </div>
+
+    <div class="account-summary-item">
+      <span class="account-summary-icon">D</span>
+      <div>
+        <b id="accountContributionTotal">D 0</b>
+        <small>Raised across your groups</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="account-detail-list">
+    <div class="account-detail-row">
+      <div>
+       <span>Phone number</span>
+       <b id="profilePhoneCard">+220 700 0000</b>
+      </div>
+      <span class="detail-label">Personal</span>
+    </div>
+
+    <div class="account-detail-row">
+      <div>
+        <span>Preferred language</span>
+        <b id="profileLanguage">English</b>
+      </div>
+      <span class="detail-label">Preference</span>
+    </div>
+
+    <div class="account-detail-row">
+      <div>
+        <span>Currency</span>
+        <b>Gambian dalasi (GMD)</b>
+      </div>
+      <span class="detail-label">GMD</span>
+    </div>
+  </div>
+
+  <button class="primary account-edit-button" id="editAccountDetails">
+    Edit account details
+  </button>
+</article><article class="panel account-summary">
+  <div class="panel-head">
+    <div>
+      <h3>Account overview</h3>
+      <p>Your personal Kafo details at a glance.</p>
+    </div>
+    <span class="account-status">
+      Demo account
+    </span>
+  </div>
+
+  <div class="account-summary-grid">
+    <div class="account-summary-item">
+      <span class="account-summary-icon">G</span>
+      <div>
+        <b id="accountGroupCount">0</b>
+        <small>Your groups</small>
+      </div>
+    </div>
+
+    <div class="account-summary-item">
+      <span class="account-summary-icon">D</span>
+      <div>
+        <b id="accountContributionTotal">D 0</b>
+        <small>Recorded contributions</small>
+      </div>
+    </div>
+  </div>
+
+  <div class="account-detail-list">
+    <div class="account-detail-row">
+      <div>
+        <span>Phone number</span>
+        <b id="profilePhone">+220 700 0000</b>
+      </div>
+      <span class="detail-label">Personal</span>
+    </div>
+
+    <div class="account-detail-row">
+      <div>
+        <span>Preferred language</span>
+        <b id="profileLanguage">English</b>
+      </div>
+      <span class="detail-label">Preference</span>
+    </div>
+
+    <div class="account-detail-row">
+      <div>
+        <span>Currency</span>
+        <b>Gambian dalasi (GMD)</b>
+      </div>
+      <span class="detail-label">GMD</span>
+    </div>
+  </div>
+
+  <button class="primary account-edit-button" id="editAccountDetails">
+    Edit account details
+  </button>
+</article>
+      <div class="settings-col">
+       <article class="panel">
+        <div class="panel-head">
+         <div>
+          <h3>
+           Preferences
+          </h3>
+          <p>
+           Make Kafo work for you.
+          </p>
+         </div>
+        </div>
+        <div class="setting">
+         <span class="setting-icon">
+          ♧
+         </span>
+         <span>
+          <b>
+           Activity notifications
+          </b>
+          <small>
+           Get updates about your groups.
+          </small>
+         </span>
+         <label class="switch">
+          <input checked="" id="notifyToggle" type="checkbox"/>
+          <i>
+          </i>
+         </label>
+        </div>
+        <div class="setting">
+         <span class="setting-icon">
+          ◉
+         </span>
+         <span>
+          <b>
+           Show financial details
+          </b>
+          <small>
+           Display sample balances in your dashboard.
+          </small>
+         </span>
+         <label class="switch">
+          <input checked="" id="financeToggle" type="checkbox"/>
+          <i>
+          </i>
+         </label>
+        </div>
+       </article>
+       <article class="panel">
+        <div class="panel-head">
+         <div>
+          <h3>
+           Privacy &amp; safety
+          </h3>
+          <p>
+           Your groups should feel safe and respectful.
+          </p>
+         </div>
+        </div>
+        <button class="settings-link" id="privacy">
+         <span>
+          <b>
+           Group visibility
+          </b>
+          <small>
+           Public, link-only and private groups
+          </small>
+         </span>
+         →
+        </button>
+        <button class="settings-link" id="reset">
+         <span>
+          <b>
+           Local demo data
+          </b>
+          <small>
+           Clear saved prototype changes from this browser
+          </small>
+         </span>
+         →
+        </button>
+       </article>
+      </div>
+     </div>
+    </section>
+   </div>
+   <footer>
+    <span>
+     © 2026 Kafo. Together, we make it happen.
+    </span>
+    <span>
+     <a href="#" id="footerPrivacy">
+      Privacy
+     </a>
+     <a href="#" id="about">
+      About Kafo
+     </a>
+     <span class="demo-dot">
+      ● Frontend demo
+     </span>
+    </span>
+   </footer>
+  </main>
+  <div class="mobile-nav">
+   <button class="mobile-item active" data-view="home">
+    ⌂
+    <small>
+     Home
+    </small>
+   </button>
+   <button class="mobile-item" data-view="discover">
+    ⌕
+    <small>
+     Discover
+    </small>
+   </button>
+   <button class="mobile-add" data-action="create">
+    ＋
+    <small>
+     Create
+    </small>
+   </button>
+   <button class="mobile-item" data-view="groups">
+    ♧
+    <small>
+     My groups
+    </small>
+   </button>
+   <button class="mobile-item" data-view="profile">
+    ◉
+    <small>
+     Profile
+    </small>
+   </button>
+  </div>
+  <div class="backdrop" id="backdrop">
+   <section aria-labelledby="modalTitle" aria-modal="true" class="modal" role="dialog">
+    <button aria-label="Close" class="close" id="closeModal">
+     ×
+    </button>
+    <div id="modalContent">
+    </div>
+   </section>
+  </div>
+  <div aria-live="polite" class="toasts" id="toasts">
+  </div>
+  <script src="app.js" defer></script>
+</body>
+</html>
+
+....................
+
+
+
+const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
+const seed=[
+ {
+  id:'g1',
+  name:'Fatou’s Medical Support',
+  purpose:'Health',
+  description:'Helping Fatou and her family with medical expenses and recovery support.',
+  target:15000,
+  raised:9850,
+  spent:2300,
+  visibility:'link',
+  status:'active',
+  members:28,
+  created:'12 Oct 2026',
+  organiser:'Amie Manneh',
+  contributions:[ {
+    name:'Binta Jallow',
+    amount:500,
+    date:'Today, 10:42 AM',
+    status:'Confirmed',
+    method:'Manual record'
+  },
+   {
+    name:'Lamin Sanyang',
+    amount:250,
+    date:'Yesterday',
+    status:'Confirmed',
+    method:'Manual record'
+  },
+   {
+    name:'Anonymous supporter',
+    amount:100,
+    date:'Yesterday',
+    status:'Awaiting confirmation',
+    method:'Manual record'
+  }],
+  expenses:[ {
+    title:'Clinic consultation',
+    category:'Medical',
+    amount:1500,
+    date:'12 Oct 2026'
+  },
+   {
+    title:'Transport to clinic',
+    category:'Transport',
+    amount:800,
+    date:'11 Oct 2026'
+  }],
+  updates:[ {
+    title:'A note from the family',
+    date:'Today',
+    text:'Thank you for standing with Fatou. We will keep sharing updates as we go.'
+  }]
+},
+ {
+  id:'g2',
+  name:'Manneh Family Fund',
+  purpose:'Family',
+  description:'Our family’s shared support fund for important moments and unexpected needs.',
+  target:20000,
+  raised:6200,
+  spent:0,
+  visibility:'private',
+  status:'active',
+  members:16,
+  created:'5 Oct 2026',
+  organiser:'Amie Manneh',
+  contributions:[ {
+    name:'Amie Manneh',
+    amount:1000,
+    date:'Yesterday',
+    status:'Confirmed',
+    method:'Manual record'
+  }],
+  expenses:[],
+  updates:[]
+},
+ {
+  id:'g3',
+  name:'Bakau School Supplies',
+  purpose:'Education',
+  description:'Helping local students start the school term with the books and supplies they need.',
+  target:12000,
+  raised:8400,
+  spent:4200,
+  visibility:'public',
+  status:'active',
+  members:42,
+  created:'1 Oct 2026',
+  organiser:'Bakau Community Team',
+  contributions:[ {
+    name:'Ebrima Touray',
+    amount:500,
+    date:'Today',
+    status:'Confirmed',
+    method:'Manual record'
+  }],
+  expenses:[ {
+    title:'Exercise books and pens',
+    category:'Supplies',
+    amount:4200,
+    date:'10 Oct 2026'
+  }],
+  updates:[ {
+    title:'First batch purchased',
+    date:'10 Oct 2026',
+    text:'We purchased the first batch of exercise books and pens.'
+  }]
+},
+ {
+  id:'g4',
+  name:'Kotu Neighbourhood Clean-up',
+  purpose:'Community',
+  description:'A community effort to make our shared streets cleaner, safer and more welcoming.',
+  target:8000,
+  raised:5600,
+  spent:1200,
+  visibility:'public',
+  status:'active',
+  members:34,
+  created:'28 Sep 2026',
+  organiser:'Kotu Community Circle',
+  contributions:[ {
+    name:'Musa Bah',
+    amount:250,
+    date:'Today',
+    status:'Confirmed',
+    method:'Manual record'
+  }],
+  expenses:[ {
+    title:'Cleaning supplies',
+    category:'Supplies',
+    amount:1200,
+    date:'8 Oct 2026'
+  }],
+  updates:[ {
+    title:'Clean-up day announced',
+    date:'8 Oct 2026',
+    text:'Our next clean-up is planned for Saturday.'
+  }]
+}
+];
+const publicSeed=[
+ {
+  id:'p1',
+  name:'Aisha’s Recovery Journey',
+  purpose:'Health',
+  description:'Help Aisha access the treatment and recovery support she needs after a difficult few months.',
+  target:25000,
+  raised:17400,
+  visibility:'public',
+  members:64,
+  organiser:'Aisha’s Family'
+},
+ {
+  id:'p2',
+  name:'Books for Brikama Learners',
+  purpose:'Education',
+  description:'Getting essential learning materials into the hands of children who need them most.',
+  target:18000,
+  raised:11250,
+  visibility:'public',
+  members:91,
+  organiser:'Brikama Learning Circle'
+},
+ {
+  id:'p3',
+  name:'A Fresh Start for Our Street',
+  purpose:'Community',
+  description:'Neighbours working together to improve drainage, cleanliness and shared spaces.',
+  target:10000,
+  raised:4600,
+  visibility:'public',
+  members:38,
+  organiser:'Serekunda Neighbours'
+},
+ {
+  id:'p4',
+  name:'Support for the Jallow Family',
+  purpose:'Family',
+  description:'Helping a local family with essential costs after an unexpected loss.',
+  target:16000,
+  raised:13200,
+  visibility:'public',
+  members:72,
+  organiser:'Friends of the Jallow Family'
+},
+ {
+  id:'p5',
+  name:'Girls’ School Essentials',
+  purpose:'Education',
+  description:'School bags, stationery and learning essentials for girls returning to class.',
+  target:14000,
+  raised:7300,
+  visibility:'public',
+  members:55,
+  organiser:'Future Steps Gambia'
+},
+ {
+  id:'p6',
+  name:'Community Water Point',
+  purpose:'Community',
+  description:'A shared effort to repair a neighbourhood water point and make access more reliable.',
+  target:30000,
+  raised:20800,
+  visibility:'public',
+  members:103,
+  organiser:'Kerr Serign Community'
+}];
+let groups=loadGroups(),publicCampaigns=structuredClone(publicSeed),currentId=null,detailTab='overview',createStep=1,category='All',activity=[
+ {
+  type:'money',
+  text:'<b>Binta Jallow</b> contributed to <b>Fatou’s Medical Support</b>.',
+  detail:'Today, 10:42 AM',
+  amount:'+ D 500'
+},
+ {
+  type:'receipt',
+  text:'An expense was recorded in <b>Bakau School Supplies</b>.',
+  detail:'Yesterday, 3:15 PM',
+  amount:'D 4,200'
+},
+ {
+  type:'update',
+  text:'<b>Kotu Neighbourhood Clean-up</b> posted a new update.',
+  detail:'12 Oct 2026',
+  amount:''
+},
+ {
+  type:'money',
+  text:'<b>Amie Manneh</b> recorded a contribution to <b>Manneh Family Fund</b>.',
+  detail:'9 Oct 2026',
+  amount:'+ D 1,000'
+}];
+
+
+try {
+  const savedActivity = JSON.parse(localStorage.getItem("kafoActivity"));
+  if (Array.isArray(savedActivity)) {
+    activity = savedActivity;
+  }
+} catch (error) {
+  console.warn("Kafo could not load saved activity:", error);
+}
+
+
+function loadGroups() {
+  try {
+    return JSON.parse(localStorage.getItem('kafoGroups'))||structuredClone(seed)
+  }
+  catch(e) {
+    return structuredClone(seed)
+  }
+
+}
+
+
+function save() {
+  try {
+    localStorage.setItem("kafoGroups", JSON.stringify(groups));
+    return true;
+    localStorage.setItem("kafoActivity", JSON.stringify(activity));
+  } catch (error) {
+    console.error("Kafo could not save groups:", error);
+    toast("Could not save changes in this browser. Check browser storage.");
+    return false;
+  }
+}
+
+
+function esc(s='') {
+  return String(s).replace(/[&<>"']/g,c=>( {
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  }
+  [c]))
+}
+
+function fmt(n) {
+  return new Intl.NumberFormat('en-GM', {
+    maximumFractionDigits:0
+  }).format(Number(n)||0)
+}
+function cash(n) {
+  return 'D '+fmt(n)
+}
+function pct(g) {
+  return g.target?Math.min(100,Math.round(g.raised/g.target*100)):0
+}
+function balance(g) {
+  return(g.raised||0)-(g.spent||0)
+}
+
+function label(p) {
+  return( {
+    Health:'Medical support',Family:'Family support',Community:'Community project',Education:'Education',Celebration:'Celebration',Other:'Other'
+  })[p]||p
+}
+
+function art(p) {
+  return 'art-'+( {
+    Health:'health',Family:'family',Community:'community',Education:'education',Celebration:'celebration',Other:'community'
+  })[p]||'art-health'
+}
+
+function sym(p) {
+  return( {
+    Health:'health',Family:'family',Community:'community',Education:'education',Celebration:'celebration',Other:'community'
+  })[p]||'health'
+}
+
+function vis(v) {
+  return( {
+    public:'Public',link:'Link-only',private:'Private'
+  })[v]||'Public'
+}
+
+function find(id) {
+  return groups.find(g=>g.id===id)||publicCampaigns.find(g=>g.id===id)
+}
+
+function mine(id) {
+  return groups.some(g=>g.id===id)
+}
+
+function view(v) {
+  const allowedViews = [
+    "home",
+    "discover",
+    "groups",
+    "activity",
+    "profile",
+    "detail",
+    "create"
+  ];
+
+  if (!allowedViews.includes(v)) {
+    console.error("Kafo: Unknown page:", v);
+    return;
+  }
+
+  if (v === "create") {
+    showCreate();
+    return;
+  }
+
+  const target = document.getElementById("view-" + v);
+
+  if (!target) {
+    console.error(
+      `Kafo: The page section #view-${v} does not exist in index.html.`
+    );
+
+    if (typeof toast === "function") {
+      toast("This page could not be opened. Please check the page setup.");
+    }
+
+    return;
+  }
+
+  // Display exactly one page.
+  document.querySelectorAll(".view").forEach(section => {
+    section.classList.toggle("active", section === target);
+  });
+
+  // Update the active navigation item.
+  document.querySelectorAll("[data-view]").forEach(button => {
+    const isActive = button.dataset.view === v;
+
+    button.classList.toggle("active", isActive);
+
+    if (isActive) {
+      button.setAttribute("aria-current", "page");
+    } else {
+      button.removeAttribute("aria-current");
+    }
+  });
+
+  // Update the breadcrumb.
+  const breadcrumb = document.getElementById("crumb");
+
+  if (breadcrumb) {
+    const titles = {
+      home: "Home",
+      discover: "Discover",
+      groups: "My Groups",
+      activity: "Activity",
+      profile: "Profile",
+      detail: "Group Details"
+    };
+
+    breadcrumb.textContent = titles[v] || v;
+  }
+
+  // Close the mobile sidebar after navigation.
+  const sidebar = document.getElementById("sidebar");
+
+  if (sidebar) {
+    sidebar.classList.remove("open");
+  }
+
+  // Remember the current page in the URL.
+  history.replaceState(null, "", "#" + v);
+
+  // Render the selected page.
+  try {
+    switch (v) {
+      case "home":
+        if (typeof home === "function") home();
+        break;
+
+      case "discover":
+        if (typeof renderDiscover === "function") renderDiscover();
+        break;
+
+      case "groups":
+        if (typeof renderGroups === "function") renderGroups();
+        break;
+
+      case "activity":
+        if (typeof renderActivity === "function") renderActivity();
+        break;
+
+      case "profile":
+        if (typeof profileInit === "function") profileInit();
+        if (typeof renderAccountSummary === "function") {
+          renderAccountSummary();
+        }
+        break;
+
+      case "detail":
+        if (typeof renderDetail === "function") renderDetail();
+        break;
+    }
+  } catch (error) {
+    console.error("Kafo: Page rendering failed:", error);
+
+    if (typeof toast === "function") {
+      toast("Something went wrong while opening this page.");
+    }
+  }
+
+  window.scrollTo({
+    top: 0,
+    behavior: "auto"
+  });
+}
+
+function showCreate() {
+  createStep=1;
+  $$('.view').forEach(x=>x.classList.toggle('active',x.id==='view-create'));
+  $$('[data-view]').forEach(x=>x.classList.remove('active'));
+  $('#crumb').textContent='Create a group';
+  $('#sidebar').classList.remove('open');
+  step(1);
+  preview();
+  location.hash='create';
+  window.scrollTo( {
+    top:0,behavior:'smooth'
+  })
+}
+
+function step(n) {
+  createStep=n;
+  $$('.form-step').forEach(x=>x.classList.toggle('active',+x.dataset.step===n));
+  $$('.step[data-step-label]').forEach(x=> {
+    let k=+x.dataset.stepLabel;x.classList.toggle('active',k===n);x.classList.toggle('done',k<n);x.querySelector('b').textContent=k<n?'✓':k
+  })
+}
+
+function icon(p) {
+  return( {
+    Health:'♡',Family:'⌂',Community:'♧',Education:'▱',Celebration:'✳',Other:'＋'
+  })[p]||'＋'
+}
+
+function progressBar(g) {
+  return `<div class="progress"><span style="width:${pct(g)}%"></span></div>`
+}
+
+function groupRow(g) {
+  return `<div class="group-row" data-open="${esc(g.id)}" tabindex="0" role="button"><span class="group-symbol ${sym(g.purpose)}">${icon(g.purpose)}</span><span class="group-copy"><b>${esc(g.name)}</b><small>${g.members} members · ${pct(g)}% of target</small>${progressBar(g)}</span><span class="group-money"><b>${cash(g.raised)}</b><small>of ${g.target?cash(g.target):'no target'}</small></span></div>`
+}
+
+
+function actRow(a) {
+  return `
+    <div class="activity-row">
+      <span class="activity-icon">
+        ${a.type === "money" ? "＋" : a.type === "receipt" ? "▤" : "◌"}
+      </span>
+      <span class="activity-copy">
+        <p>${a.text}</p>
+        <small>${esc(a.detail)}</small>
+      </span>
+      ${a.amount
+        ? `<span class="activity-amount">${esc(a.amount)}</span>`
+        : ""}
+    </div>
+  `;
+}
+
+
+function empty(t,d) {
+  return `<div class="empty"><b>${t}</b>${d}</div>`
+}
+
+function home() {
+   $('#homeGroups').innerHTML=groups.filter(g=>g.status==='active').slice(0,3).map(groupRow).join('')||empty('No groups yet','Create your first group to get started.');
+  $('#homeActivity').innerHTML=activity.slice(0,4).map(actRow).join('');
+  if(!$('#financeToggle').checked) {
+    $$('.stat>strong').forEach(x=> {
+      if(!x.dataset.original)x.dataset.original=x.innerText;x.innerText='••••••'
+    })
+  }
+  else $$('[data-original]').forEach(x=> {
+    x.innerText=x.dataset.original;delete x.dataset.original
+  })
+  renderAccountSummary();
+}
+
+function card(g,isPublic=false) {
+  return `<article class="group-card" data-open="${esc(g.id)}" tabindex="0" role="button"><div class="card-art ${art(g.purpose)}"><span class="tag">${label(g.purpose)}</span><span class="vis">${vis(g.visibility)}</span></div><div class="card-content"><h3>${esc(g.name)}</h3><p class="desc">${esc(g.description||'A community coming together around a shared goal.')}</p><div class="card-progress"><b>${cash(g.raised)} <span>raised</span></b><span>${g.target?pct(g)+'% of goal':'No target'}</span></div>${progressBar(g)}<div class="card-bottom"><span class="members">${g.members} members/supporters</span><span class="card-action">${isPublic?'View fundraiser':'View group'} →</span></div></div></article>`
+}
+
+function renderGroups() {
+  const search = document.getElementById("groupSearch");
+  const filter = document.getElementById("groupFilter");
+  const container = document.getElementById("allGroups");
+
+  if (!container) {
+    console.error("Kafo: Missing #allGroups in index.html.");
+    return;
+  }
+
+  const query = (search?.value || "").trim().toLowerCase();
+  const selectedStatus = filter?.value || "all";
+
+  const matchingGroups = groups.filter(group => {
+    const searchableText = [
+      group.name,
+      group.description,
+      group.purpose,
+      group.organiser
+    ].filter(Boolean).join(" ").toLowerCase();
+
+    const matchesSearch = searchableText.includes(query);
+    const matchesStatus =
+      selectedStatus === "all" ||
+      group.status === selectedStatus;
+
+    return matchesSearch && matchesStatus;
+  });
+
+  container.innerHTML = matchingGroups.length
+    ? matchingGroups.map(group => card(group)).join("")
+    : empty(
+        "No groups found",
+        "Try another search or filter, or create a new group."
+      );
+
+  if (typeof renderAccountSummary === "function") {
+    renderAccountSummary();
+  }
+}
+
+function renderDiscover() {
+  const search = document.getElementById("discoverSearch");
+  const container = document.getElementById("discoverGrid");
+
+  if (!container) {
+    console.error("Kafo: Missing #discoverGrid in index.html.");
+    return;
+  }
+
+  const query = (search?.value || "").trim().toLowerCase();
+
+  const matchingCampaigns = [...groups, ...publicCampaigns].filter(group => {
+    if (group.visibility !== "public") return false;
+
+    const searchableText = [
+      group.name,
+      group.description,
+      group.purpose,
+      group.organiser
+    ].filter(Boolean).join(" ").toLowerCase();
+
+    const matchesSearch = searchableText.includes(query);
+    const matchesCategory =
+      category === "All" || group.purpose === category;
+
+    return matchesSearch && matchesCategory;
+  });
+
+  container.innerHTML = matchingCampaigns.length
+    ? matchingCampaigns.map(group => card(group, true)).join("")
+    : empty(
+        "No public fundraisers found",
+        "Try another search or choose a different cause."
+      );
+}
+
+function renderActivity() {
+  $('#allActivity').innerHTML=activity.map(actRow).join('')||empty('No activity yet','Updates will appear here as your groups grow.')
+}
+
+function openGroup(id) {
+  currentId=id;
+  detailTab='overview';
+  renderDetail();
+  view('detail')
+}
+
+function renderDetail() {
+  let g=find(currentId);
+  if(!g) {
+    view('groups');
+    return
+  }
+  let is=mine(g.id);
+  let contrib=(g.contributions||[]).map(c=>`<div class="record"><span class="record-icon">＋</span><span class="record-copy"><b>${esc(c.name)}</b><small>${esc(c.date)} · ${esc(c.method||'Manual record')}</small></span><span class="record-value positive">+ ${cash(c.amount)}</span><span class="pill ${c.status==='Confirmed'?'green':'pending'}">${esc(c.status)}</span></div>`).join('');
+  let expenses=(g.expenses||[]).map(e=>`<div class="record"><span class="record-icon">▤</span><span class="record-copy"><b>${esc(e.title)}</b><small>${esc(e.date)} · ${esc(e.category)}</small></span><span class="record-value">− ${cash(e.amount)}</span></div>`).join('');
+  let updates=(g.updates||[]).map(u=>`<div class="record"><span class="record-icon">◌</span><span class="record-copy"><b>${esc(u.title)}</b><small>${esc(u.date)}</small><small>${esc(u.text)}</small></span></div>`).join('');
+  $('#detail').innerHTML=`<div class="detail-cover ${art(g.purpose)}"><div><span class="tag">${label(g.purpose)}</span><h1>${esc(g.name)}</h1><p>${esc(g.description||'A community coming together around a shared goal.')}</p></div><div class="detail-actions">${is?'<button class="primary" data-modal="contribution">＋ Record contribution</button><button class="secondary" data-modal="expense">Record expense</button>':'<button class="primary" data-modal="support">Support this cause</button>'}<button class="secondary" data-action="share">Share group</button></div></div>
+<div class="metrics"><div class="metric"><span>Confirmed contributions</span><b>${cash(g.raised)}</b><small>Money recorded as received</small></div><div class="metric"><span>Total expenses</span><b>${cash(g.spent||0)}</b><small>Expenses recorded</small></div><div class="metric"><span>Available balance</span><b>${cash(balance(g))}</b><small>Contributions minus expenses</small></div></div>
+<div class="tabs"><button class="tab ${detailTab==='overview'?'active':''}" data-tab="overview">Overview</button><button class="tab ${detailTab==='contributions'?'active':''}" data-tab="contributions">Contributions</button><button class="tab ${detailTab==='expenses'?'active':''}" data-tab="expenses">Expenses</button><button class="tab ${detailTab==='updates'?'active':''}" data-tab="updates">Updates</button></div>
+<div class="detail-grid"><div><section class="detail-section ${detailTab==='overview'?'active':''}" data-section="overview"><div class="panel"><div class="panel-head"><div><h3>Group progress</h3><p>How far your community has come.</p></div><span class="pill green">${pct(g)}% reached</span></div><div class="card-progress"><b>${cash(g.raised)} raised</b><span>${g.target?cash(Math.max(0,g.target-g.raised))+' to go':'No target'}</span></div>${progressBar(g)}<div class="panel-head" style="margin-top:22px"><div><h3>Recent contributions</h3><p>Latest recorded support.</p></div><button class="text" data-tab="contributions">View all →</button></div>${contrib||'<p class="sub">No contributions recorded yet.</p>'}</div></section>
+<section class="detail-section ${detailTab==='contributions'?'active':''}" data-section="contributions"><div class="panel"><div class="panel-head"><div><h3>Contributions</h3><p>Only confirmed amounts count toward the total.</p></div>${is?'<button class="primary" data-modal="contribution">＋ Record</button>':''}</div>${contrib||'<p class="sub">No contributions recorded yet.</p>'}</div></section>
+<section class="detail-section ${detailTab==='expenses'?'active':''}" data-section="expenses"><div class="panel"><div class="panel-head"><div><h3>Expenses</h3><p>Keep a clear record of what was spent.</p></div>${is?'<button class="primary" data-modal="expense">＋ Record</button>':''}</div>${expenses||'<p class="sub">No expenses recorded yet.</p>'}</div></section>
+<section class="detail-section ${detailTab==='updates'?'active':''}" data-section="updates"><div class="panel"><div class="panel-head"><div><h3>Group updates</h3><p>Notes and news for members.</p></div>${is?'<button class="primary" data-modal="update">＋ Update</button>':''}</div>${updates||'<p class="sub">No updates posted yet.</p>'}</div></section></div>
+<aside><div class="panel side-card"><h3>About this group</h3><div class="info-row"><span>Organiser</span><b>${esc(g.organiser||'Group organiser')}</b></div><div class="info-row"><span>Members</span><b>${g.members||1} people</b></div><div class="info-row"><span>Visibility</span><b>${vis(g.visibility)}</b></div><div class="info-row"><span>Created</span><b>${esc(g.created||'Recently')}</b></div><div class="info-row"><span>Target</span><b>${g.target?cash(g.target):'Not set'}</b></div>${is?'<button class="secondary" style="width:100%;margin-top:10px" data-action="share">Invite or share group</button>':''}</div><div class="panel side-card"><h3>Keeping things transparent</h3><p>Contribution and expense totals are calculated from records. In a real Kafo release, changes should retain an audit trail and members should only see information they have permission to view.</p><button class="text" data-action="transparency">How records work →</button></div></aside></div>`
+}
+
+function preview() {
+  let f=$('#createForm');
+  if(!f)return;
+  let p=f.querySelector('[name="purpose"]:checked')?.value;
+  $('#previewName').textContent=f.elements.name.value.trim()||'Your group name';
+  $('#previewPurpose').textContent=p?label(p):'Your shared purpose';
+  $('#previewTarget').textContent=f.elements.target.value?cash(f.elements.target.value):'Not set';
+  $('#previewVisibility').textContent=vis(f.querySelector('[name="visibility"]:checked')?.value||'public')
+}
+
+function toast(msg) {
+  let t=document.createElement('div');
+  t.className='toast';
+  t.textContent=msg;
+  $('#toasts').append(t);
+  setTimeout(()=>t.remove(),3200)
+}
+
+function modal(html) {
+  $('#modalContent').innerHTML=html;
+  $('#backdrop').classList.add('open');
+  document.body.style.overflow='hidden';
+  setTimeout(()=>$('#modalContent input,#modalContent button,#modalContent textarea')?.focus(),30)
+}
+
+function close() {
+   $('#backdrop').classList.remove('open');
+  document.body.style.overflow=''
+}
+
+function recordForm(type) {
+  let g=find(currentId);
+  if(!g||!mine(currentId)) {
+    toast('Recording is available for your own groups in this demo.');
+    return
+  }
+  let common=type==='expense'?'Expense description':'Contributor name';
+  let body=type==='contribution'?`<h2 id="modalTitle">Record a contribution</h2><p>Enter a contribution that has been received. This demo does not process payments.</p><form class="modal-form" id="recordForm"><label class="field">${common} *<input class="input" name="name" required maxlength="100" placeholder="Full name or Anonymous"></label><label class="field">Amount (GMD) *<input class="input" name="amount" type="number" min="1" required placeholder="0"></label><label class="field">How was it received?<select class="input" name="method"><option>Manual record</option><option>Cash</option><option>Wave (record only)</option><option>QMoney (record only)</option><option>Other</option></select></label><label class="field">Confirmation status<select class="input" name="status"><option>Confirmed</option><option>Awaiting confirmation</option></select></label><div class="notice">Only confirmed contributions are added to the raised total. A screenshot alone is not proof of payment.</div><button class="primary">Save contribution</button></form>`:type==='expense'?`<h2 id="modalTitle">Record an expense</h2><p>Keep a clear record of how group funds are used.</p><form class="modal-form" id="recordForm"><label class="field">${common} *<input class="input" name="name" required maxlength="100" placeholder="e.g. Transport to clinic"></label><label class="field">Amount (GMD) *<input class="input" name="amount" type="number" min="1" required placeholder="0"></label><label class="field">Category<select class="input" name="category"><option>Medical</option><option>Transport</option><option>Supplies</option><option>Food</option><option>Venue</option><option>Education</option><option>Other</option></select></label><label class="field">Date<input class="input" name="date" type="date" value="${new Date().toISOString().slice(0,10)}"></label><label class="field">Note (optional)<textarea class="input" name="note" rows="2"></textarea></label><button class="primary">Save expense</button></form>`:`<h2 id="modalTitle">Post a group update</h2><p>Share a short update with group members.</p><form class="modal-form" id="recordForm"><label class="field">Update title *<input class="input" name="name" required maxlength="100"></label><label class="field">Message *<textarea class="input" name="note" rows="4" required maxlength="500"></textarea></label><button class="primary">Post update</button></form>`;
+  modal(body);
+  $('#recordForm').onsubmit=e=> {
+    e.preventDefault();
+    let d=new FormData(e.currentTarget),
+    name=String(d.get('name')||'').trim(),
+    amount=Number(d.get('amount'));
+    if(!name)return;
+    if(type!=='update'&&!(amount>0)) {
+      toast('Enter an amount greater than zero.');
+      return
+    }
+    if(type==='contribution') {
+      let status=d.get('status');
+      g.contributions.unshift( {
+        name,amount,date:'Just now',status,method:d.get('method')
+      });
+      if(status==='Confirmed')g.raised+=amount;
+      activity.unshift( {
+        type:'money',text:`<b>${esc(name)}</b> recorded a contribution to <b>${esc(g.name)}</b>.`,detail:'Just now',amount:status==='Confirmed'?'+ '+cash(amount):'Awaiting confirmation'
+      });
+      toast(status==='Confirmed'?'Contribution saved and totals updated.':'Saved as awaiting confirmation.')
+    }
+    if(type==='expense') {
+      g.expenses.unshift( {
+        title:name,amount,category:d.get('category'),date:d.get('date')||'Today',note:d.get('note')
+      });
+      g.spent=(g.spent||0)+amount;
+      activity.unshift( {
+        type:'receipt',text:`An expense was recorded in <b>${esc(g.name)}</b>.`,detail:'Just now',amount:'− '+cash(amount)
+      });
+      toast('Expense saved and available balance updated.')
+    }
+    if(type==='update') {
+      g.updates.unshift( {
+        title:name,date:'Just now',text:d.get('note')
+      });
+      activity.unshift( {
+        type:'update',text:`A new update was posted in <b>${esc(g.name)}</b>.`,detail:'Just now',amount:''
+      });
+      toast('Group update posted.')
+    }
+    save();
+    close();
+    renderDetail();
+    home();
+    renderGroups();
+    renderActivity()
+  }
+
+}
+
+function showModal(type) {
+  if(['contribution','expense','update'].includes(type)) {
+    recordForm(type);
+    return
+  }
+  if(type==='support') {
+    modal(`<h2 id="modalTitle">Support this cause</h2><p>This is a visual prototype. No payment will be taken and no money is transferred.</p><div class="notice">In a live version, you would see verified payment instructions and clear confirmation before paying.</div><button class="primary" id="understood">Understood</button>`);
+    $('#understood').onclick=()=> {
+      close();
+      toast('Thanks for your interest. No payment was made.')
+    };
+
+  }
+
+}
+
+function share() {
+  let g=find(currentId),
+  url=location.href.split('#')[0]+'#group-'+currentId;
+  if(navigator.share)navigator.share( {
+    title:g?.name||'Kafo group',text:'Join me in '+(g?.name||'this Kafo group'),url
+  }).catch(()=> {
+
+  });
+  else if(navigator.clipboard?.writeText)navigator.clipboard.writeText(url).then(()=>toast('Group link copied to clipboard.')).catch(()=>shareModal(url));
+  else shareModal(url)
+}
+
+function shareModal(url) {
+  modal(`<h2 id="modalTitle">Share this group</h2><p>Copy this demo link to share the idea with someone.</p><textarea class="input" rows="3" readonly>${url}</textarea><button class="primary" id="copyLink">Select link to copy</button>`);
+  $('#copyLink').onclick=()=> {
+    $('#modalContent textarea').select();
+    document.execCommand('copy');
+    toast('Link selected for copying.')
+  }
+
+}
+
+function action(a) {
+  if(a==='create') {
+    showCreate();
+    return
+  }
+  if(a==='share') {
+    share();
+    return
+  }
+  if(a==='transparency') {
+    modal(`<h2 id="modalTitle">How records work</h2><p>Kafo separates confirmed contributions from pending records, and shows expenses separately from money received.</p><p>In production, edits should keep an audit history showing who changed a record, when, and why.</p><button class="primary" id="ok">Understood</button>`);
+    $('#ok').onclick=close
+  }
+
+}
+
+function profileUpdate(name, email, phone = "+220 700 0000", language = "English") {
+  const safeName = String(name || "").trim() || "Kafo Member";
+  const safeEmail = String(email || "").trim();
+  const safePhone = String(phone || "").trim() || "+220 700 0000";
+  const safeLanguage = String(language || "English");
+
+  const initials = safeName
+    .split(/\s+/)
+    .filter(Boolean)
+    .slice(0, 2)
+    .map(part => part.charAt(0))
+    .join("")
+    .toUpperCase();
+
+  const heading = document.querySelector("#profileHeading");
+  const nameField = document.querySelector("#profileName");
+  const emailField = document.querySelector("#profileEmail");
+  const phoneFields = document.querySelectorAll("#profilePhone, #profilePhoneCard");
+  const languageFields = document.querySelectorAll("#profileLanguage");
+
+  if (heading) heading.textContent = safeName;
+  if (nameField) nameField.textContent = safeName;
+  if (emailField) emailField.textContent = safeEmail || "Not added";
+  phoneFields.forEach(field => {
+  field.textContent = safePhone;
+});
+
+languageFields.forEach(field => {
+  field.textContent = safeLanguage;
+});
+
+  document.querySelectorAll(".user-row b").forEach(element => {
+    element.textContent = safeName;
+  });
+
+  document.querySelectorAll(".avatar").forEach(element => {
+    element.textContent = initials || "KM";
+  });
+
+  const topUser = document.querySelector(".user-top");
+  if (topUser) {
+    const nameSpan = topUser.querySelector("span:not(.avatar)");
+    if (nameSpan) nameSpan.textContent = safeName;
+  }
+
+  try {
+    localStorage.setItem(
+      "kafoProfile",
+      JSON.stringify({
+        name: safeName,
+        email: safeEmail,
+        phone: safePhone,
+        language: safeLanguage
+      })
+    );
+  } catch (error) {
+    console.warn("Kafo could not save the profile in this browser.", error);
+  }
+
+  renderAccountSummary();
+}
+
+function profileInit() {
+  let profile = {
+    name: "Amie Manneh",
+    email: "amie@example.com",
+    phone: "+220 700 0000",
+    language: "English"
+  };
+
+  try {
+    const savedProfile = JSON.parse(localStorage.getItem("kafoProfile"));
+
+    if (savedProfile && typeof savedProfile === "object") {
+      profile = { ...profile, ...savedProfile };
+    }
+  } catch (error) {
+    console.warn("Kafo could not read the saved profile.", error);
+  }
+
+  profileUpdate(
+    profile.name,
+    profile.email,
+    profile.phone,
+    profile.language
+  );
+}
+
+
+function renderAccountSummary() {
+  const groupCount = String(groups.length);
+
+  const totalRaised = groups.reduce(
+    (total, group) => total + (Number(group.raised) || 0),
+    0
+  );
+
+  document.querySelectorAll("#accountGroupCount").forEach(element => {
+    element.textContent = groupCount;
+  });
+
+  document.querySelectorAll("#accountContributionTotal").forEach(element => {
+    element.textContent = cash(totalRaised);
+  });
+}
+
+
+function editProfile() {
+  let savedProfile = {};
+
+  try {
+    savedProfile = JSON.parse(localStorage.getItem("kafoProfile")) || {};
+  } catch (error) {
+    savedProfile = {};
+  }
+
+  const name = savedProfile.name || document.querySelector("#profileName")?.textContent || "";
+  const email = savedProfile.email || document.querySelector("#profileEmail")?.textContent || "";
+  const phone = savedProfile.phone || document.querySelector("#profilePhone")?.textContent || "+220 700 0000";
+  const language = savedProfile.language || document.querySelector("#profileLanguage")?.textContent || "English";
+
+  modal(`
+    <h2 id="modalTitle">Edit your account</h2>
+    <p>Your changes are saved in this browser for this demo.</p>
+
+    <form class="modal-form" id="profileForm">
+      <label class="field">
+        Full name
+        <input
+          class="input"
+          name="name"
+          autocomplete="name"
+          required
+          maxlength="80"
+          value="${esc(name)}"
+        >
+      </label>
+
+      <label class="field">
+        Email address
+        <input
+          class="input"
+          name="email"
+          type="email"
+          autocomplete="email"
+          maxlength="120"
+          value="${esc(email)}"
+        >
+      </label>
+
+      <label class="field">
+        Phone number
+        <input
+          class="input"
+          name="phone"
+          type="tel"
+          autocomplete="tel"
+          maxlength="30"
+          value="${esc(phone)}"
+          placeholder="+220 ..."
+        >
+      </label>
+
+      <label class="field">
+        Preferred language
+        <select class="input" name="language">
+          <option value="English" ${language === "English" ? "selected" : ""}>English</option>
+          <option value="Wolof" ${language === "Wolof" ? "selected" : ""}>Wolof</option>
+          <option value="Mandinka" ${language === "Mandinka" ? "selected" : ""}>Mandinka</option>
+          <option value="Fula" ${language === "Fula" ? "selected" : ""}>Fula</option>
+          <option value="Jola" ${language === "Jola" ? "selected" : ""}>Jola</option>
+          <option value="Serer" ${language === "Serer" ? "selected" : ""}>Serer</option>
+        </select>
+        <small class="field-help">
+          This saves your preference. It does not translate the app yet.
+        </small>
+      </label>
+
+      <button class="primary" type="submit">Save changes</button>
+    </form>
+  `);
+
+  const profileForm = document.querySelector("#profileForm");
+  if (!profileForm) return;
+
+  profileForm.addEventListener("submit", event => {
+    event.preventDefault();
+
+    const formData = new FormData(profileForm);
+
+    const updatedName = String(formData.get("name") || "").trim();
+    const updatedEmail = String(formData.get("email") || "").trim();
+    const updatedPhone = String(formData.get("phone") || "").trim();
+    const updatedLanguage = String(formData.get("language") || "English");
+
+    if (!updatedName) {
+      toast("Please enter your name.");
+      return;
+    }
+
+    profileUpdate(
+      updatedName,
+      updatedEmail,
+      updatedPhone,
+      updatedLanguage
+    );
+
+    close();
+    toast("Your account details have been saved.");
+  });
+}
+
+function resetDemo() {
+  modal(`<h2 id="modalTitle">Clear demo data?</h2><p>This resets saved group changes and profile edits in this browser. It does not affect any real account or payment.</p><button class="secondary" id="cancelReset">Cancel</button> <button class="primary" id="confirmReset">Reset demo</button>`);
+  $('#cancelReset').onclick=close;
+  $('#confirmReset').onclick=()=> {
+    localStorage.removeItem('kafoGroups');
+    localStorage.removeItem('kafoProfile');
+    groups=structuredClone(seed);
+    close();
+    profileInit();
+    home();
+    renderGroups();
+    renderDiscover();
+    renderActivity();
+    view('home');
+    toast('Demo data reset.')
+  }
+
+}
+
+document.addEventListener("click", function (event) {
+  const target = event.target;
+
+  if (!(target instanceof Element)) return;
+
+  // Main navigation: Home, Discover, My Groups, Activity, Profile.
+  const navButton = target.closest("[data-view]");
+
+  if (navButton) {
+    event.preventDefault();
+    view(navButton.dataset.view);
+    return;
+  }
+
+  // Actions such as creating a group or sharing a group.
+  const actionButton = target.closest("[data-action]");
+
+  if (actionButton) {
+    event.preventDefault();
+
+    if (typeof action === "function") {
+      action(actionButton.dataset.action);
+    }
+
+    return;
+  }
+
+  // Open a group card or group row.
+  const groupItem = target.closest("[data-open]");
+
+  if (groupItem) {
+    event.preventDefault();
+
+    const groupId = groupItem.dataset.open;
+
+    if (groupId) {
+      openGroup(groupId);
+    }
+
+    return;
+  }
+
+  // Open a contribution, expense, or support dialog.
+  const modalButton = target.closest("[data-modal]");
+
+  if (modalButton) {
+    event.preventDefault();
+
+    if (typeof showModal === "function") {
+      showModal(modalButton.dataset.modal);
+    }
+
+    return;
+  }
+
+  // Switch between group detail tabs.
+  const detailTabButton = target.closest("[data-tab]");
+
+  if (detailTabButton) {
+    event.preventDefault();
+
+    detailTab = detailTabButton.dataset.tab;
+    renderDetail();
+    return;
+  }
+
+  // Create-group wizard: next step.
+  const nextButton = target.closest("[data-next]");
+
+  if (nextButton) {
+    const nextStep = Number(nextButton.dataset.next);
+    const purpose = document.querySelector(
+      '#createForm [name="purpose"]:checked'
+    );
+    const nameInput = document.getElementById("newName");
+
+    if (nextStep === 2 && !purpose) {
+      toast("Please choose a purpose first.");
+      return;
+    }
+
+    if (nextStep === 3 && (!nameInput || !nameInput.value.trim())) {
+      step(2);
+
+      if (nameInput) nameInput.focus();
+
+      toast("Please enter a group name.");
+      return;
+    }
+
+    step(nextStep);
+    return;
+  }
+
+  // Create-group wizard: previous step.
+  const previousButton = target.closest("[data-prev]");
+
+  if (previousButton) {
+    step(Number(previousButton.dataset.prev));
+    return;
+  }
+
+  // Discover cause filters.
+  const categoryButton = target.closest("[data-cat]");
+
+  if (categoryButton) {
+    category = categoryButton.dataset.cat;
+
+    document.querySelectorAll("[data-cat]").forEach(button => {
+      const active = button === categoryButton;
+
+      button.classList.toggle("active", active);
+      button.setAttribute("aria-pressed", String(active));
+    });
+
+    renderDiscover();
+  }
+});
+
+
+document.addEventListener('keydown',e=> {
+  if((e.key==='Enter'||e.key===' ')&&e.target.matches('[data-open]')) {
+    e.preventDefault();openGroup(e.target.dataset.open)
+  }
+  if(e.key==='Escape')close()
+});
+$('#createForm').addEventListener('submit',e=> {
+  e.preventDefault();let f=e.currentTarget,p=f.querySelector('[name="purpose"]:checked'),name=f.elements.name.value.trim();if(!p) {
+    step(1);toast('Choose a purpose first.');return
+  }
+  if(!name) {
+    step(2);return
+  }
+  let g= {
+    id:'g'+Date.now(),name,purpose:p.value,description:f.elements.description.value.trim(),target:Number(f.elements.target.value)||0,raised:0,spent:0,visibility:f.querySelector('[name="visibility"]:checked').value,status:'active',members:1,created:'Just now',deadline:f.elements.deadline.value,organiser:'Amie Manneh',contributions:[],expenses:[],updates:[]
+  };
+
+groups.unshift(g);
+
+if (!save()) {
+  // Keep the group visible in this session, but warn that it may not survive a refresh.
+  toast("Group created for this session, but it was not saved permanently.");
+}
+
+f.reset();
+step(1);
+preview();
+
+renderGroups();
+renderDiscover();
+renderActivity();
+home();
+
+toast("Your group has been created.");
+openGroup(g.id);
+
+});
+$('#createForm').addEventListener('input',preview);
+$('#createForm').addEventListener('change',preview);
+$('#groupSearch').addEventListener('input',renderGroups);
+$('#groupFilter').addEventListener('change',renderGroups);
+$('#discoverSearch').addEventListener('input',renderDiscover);
+$('#closeModal').onclick=close;
+$('#backdrop').addEventListener('click',e=> {
+  if(e.target.id==='backdrop')close()
+});
+$('#menu').onclick=()=>$('#sidebar').classList.toggle('open');
+$('#back').onclick=()=>view('groups');
+$('#notifications').onclick=()=>modal(`<h2 id="modalTitle">You’re all caught up</h2><p>In the live Kafo app, important group updates, contribution confirmations and invitations will appear here.</p><button class="primary" id="ok">Got it</button>`);
+$('#notifications').addEventListener('click',()=>setTimeout(()=> {
+  if($('#ok'))$('#ok').onclick=close
+},0));
+$('#help').onclick=()=>modal(`<h2 id="modalTitle">Welcome to Kafo</h2><p>Kafo helps groups collect contributions and keep a clear record of expenses and updates.</p><p><b>1.</b> Create a group. <b>2.</b> Record contributions. <b>3.</b> Track expenses and share updates.</p><p>This is a frontend prototype. All edits stay in this browser and no real money moves.</p><button class="primary" id="ok">Let’s go</button>`);
+$('#help').addEventListener('click',()=>setTimeout(()=> {
+  if($('#ok'))$('#ok').onclick=close
+},0));
+$('#discoverInfo').onclick=()=>modal(`<h2 id="modalTitle">How discovery works</h2><p>Only groups set to Public should appear in Discover. Link-only groups are shared by link, and private groups are intended for invited members.</p><p>This prototype uses sample campaigns and does not verify fundraiser legitimacy or payments.</p><button class="primary" id="ok">Understood</button>`);
+$('#discoverInfo').addEventListener('click',()=>setTimeout(()=> {
+  if($('#ok'))$('#ok').onclick=close
+},0));
+$('#editProfile').onclick=editProfile;
+
+document.querySelectorAll("#editAccountDetails").forEach(button => {
+  button.addEventListener("click", editProfile);
+});
+
+$('#reset').onclick=resetDemo;
+$('#privacy').onclick=()=>modal(`<h2 id="modalTitle">Group visibility</h2><p><b>Public:</b> discoverable by everyone. <b>Link-only:</b> not listed in Discover, but a link may be forwarded. <b>Private:</b> intended for invited members.</p><p>This demo illustrates labels only. A real release must enforce permissions on a secure server.</p><button class="primary" id="ok">Understood</button>`);
+$('#privacy').addEventListener('click',()=>setTimeout(()=> {
+  if($('#ok'))$('#ok').onclick=close
+},0));
+
+const financeToggle = document.getElementById("financeToggle");
+const notifyToggle = document.getElementById("notifyToggle");
+
+try {
+  const savedPreferences = JSON.parse(
+    localStorage.getItem("kafoPreferences")
+  );
+
+  if (savedPreferences && financeToggle) {
+    financeToggle.checked = savedPreferences.showFinancialDetails !== false;
+  }
+
+  if (savedPreferences && notifyToggle) {
+    notifyToggle.checked = savedPreferences.notifications !== false;
+  }
+} catch (error) {
+  console.warn("Kafo could not load preferences:", error);
+}
+
+function savePreferences() {
+  try {
+    localStorage.setItem("kafoPreferences", JSON.stringify({
+      showFinancialDetails: financeToggle?.checked ?? true,
+      notifications: notifyToggle?.checked ?? true
+    }));
+  } catch (error) {
+    console.warn("Kafo could not save preferences:", error);
+    toast("Could not save preferences in this browser.");
+  }
+}
+
+if (financeToggle) {
+  financeToggle.addEventListener("change", () => {
+    savePreferences();
+    home();
+  });
+}
+
+if (notifyToggle) {
+  notifyToggle.addEventListener("change", () => {
+    savePreferences();
+    toast(
+      notifyToggle.checked
+        ? "Notifications enabled in this demo."
+        : "Notifications paused in this demo."
+    );
+  });
+}
+
+$('#footerPrivacy').onclick=e=> {
+  e.preventDefault();
+  $('#privacy').click()
+};
+$('#about').onclick=e=> {
+  e.preventDefault();
+  modal(`<h2 id="modalTitle">About Kafo</h2><p>Kafo is a community contribution and group expense-tracking concept built around clarity, trust and people helping people.</p><p>Bring people together. Collect contributions. Track every dalasi.</p><p>This frontend prototype uses sample data only.</p><button class="primary" id="ok">Close</button>`);
+  setTimeout(()=> {
+    if($('#ok'))$('#ok').onclick=close
+  },0)
+};
+profileInit();
+home();
+renderGroups();
+renderDiscover();
+renderActivity();
+if('serviceWorker'in navigator&&location.protocol.startsWith('http'))navigator.serviceWorker.register('./service-worker.js').catch(()=> {
+
+});
+
+...........
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+:root {
+  --green:#2457c5;
+  --deep:#183f91;
+  --ivory:#f8f7f2;
+  --ink:#202923;
+  --muted:#68736c;
+  --line:#e5e9e4;
+  --soft:#eaf1ff;
+  --gold:#d6a84f
+}
+
+* {
+  box-sizing:border-box
+}
+
+body {
+  margin:0;
+  background:#f7f8f5;
+  color:var(--ink);
+  font:14px Inter,system-ui,sans-serif
+}
+
+button,input,textarea,select {
+  font:inherit
+}
+
+button {
+  cursor:pointer
+}
+
+a {
+  color:inherit;
+  text-decoration:none
+}
+
+.sidebar {
+  width:244px;
+  position:fixed;
+  inset:0 auto 0 0;
+  background:#fff;
+  border-right:1px solid var(--line);
+  display:flex;
+  flex-direction:column;
+  padding:27px 18px 15px;
+  z-index:30
+}
+
+.brand {
+  display:flex;
+  align-items:center;
+  gap:11px;
+  padding:0 9px 38px
+}
+
+.mark {
+  display:grid;
+  place-items:center;
+  width:42px;
+  height:42px;
+  border-radius:13px;
+  background:var(--green);
+  color:white;
+  font-size:31px;
+  font-weight:400
+}
+
+.brand b {
+  font-size:26px;
+  letter-spacing:-1.5px;
+  display:block;
+  line-height:1
+}
+
+.brand small {
+  font-size:11px;
+  color:var(--muted)
+}
+
+.overline {
+  font-size:9px;
+  letter-spacing:1.4px;
+  font-weight:700;
+  color:#849088;
+  margin:0 0 8px
+}
+
+.sidebar>.overline {
+  padding:0 12px 12px
+}
+
+.sidebar nav {
+  display:grid;
+  gap:5px
+}
+
+.nav {
+  border:0;
+  background:transparent;
+  display:flex;
+  align-items:center;
+  gap:13px;
+  padding:12px 13px;
+  border-radius:10px;
+  text-align:left;
+  color:#68736c;
+  font-size:18px
+}
+
+.nav span {
+  font-size:12px;
+  font-weight:500
+}
+
+.nav:hover,.nav.active {
+  background:var(--soft);
+  color:var(--green)
+}
+
+.nav.active span {
+  font-weight:700
+}
+
+.nav i {
+  margin-left:auto;
+  font-size:10px;
+  font-style:normal;
+  background:#fff;
+  border-radius:12px;
+  padding:3px 7px
+}
+
+.sidebar-bottom {
+  margin-top:auto
+}
+
+.help {
+  background:#f8f7f2;
+  border:1px solid #efeee6;
+  border-radius:14px;
+  padding:16px;
+  margin:0 2px 17px
+}
+
+.help b {
+  font-size:12px
+}
+
+.help p {
+  font-size:11px;
+  color:var(--muted);
+  line-height:1.6;
+  margin:6px 0 10px
+}
+
+.text {
+  border:0;
+  background:transparent;
+  color:var(--green);
+  font-size:11px;
+  font-weight:700;
+  padding:0
+}
+
+.user-row,.user-top {
+  display:flex;
+  align-items:center;
+  gap:10px;
+  border:0;
+  background:transparent;
+  text-align:left
+}
+
+.user-row {
+  border-top:1px solid var(--line);
+  width:100%;
+  padding:13px 6px
+}
+
+.user-row>span:nth-child(2) {
+  display:grid;
+  gap:3px
+}
+
+.user-row b {
+  font-size:11px
+}
+
+.user-row small {
+  font-size:10px;
+  color:var(--muted)
+}
+
+.dots {
+  margin-left:auto;
+  color:#8a948d
+}
+
+.avatar {
+  width:35px;
+  height:35px;
+  border-radius:50%;
+  display:grid;
+  place-items:center;
+  background:#e6c9ad;
+  color:#6b4630;
+  font-size:11px;
+  font-weight:700;
+  flex-shrink:0
+}
+
+.main-content,main {
+  margin-left:244px;
+  min-height:100vh;
+  display:flex;
+  flex-direction:column
+}
+
+.topbar {
+  height:73px;
+  background:#ffffffed;
+  border-bottom:1px solid var(--line);
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 40px;
+  position:sticky;
+  top:0;
+  z-index:20;
+  backdrop-filter:blur(10px)
+}
+
+.crumb {
+  font-size:11px;
+  color:#89928c
+}
+
+.crumb span {
+  padding:0 10px;
+  color:#c0c6c0
+}
+
+.crumb b {
+  color:var(--ink)
+}
+
+.top-actions {
+  display:flex;
+  align-items:center;
+  gap:17px
+}
+
+.icon-button {
+  position:relative;
+  border:0;
+  background:transparent;
+  font-size:19px;
+  color:#637067
+}
+
+.icon-button i {
+  position:absolute;
+  right:0;
+  top:0;
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:var(--gold)
+}
+
+.divider {
+  height:25px;
+  width:1px;
+  background:var(--line)
+}
+
+.user-top {
+  font-size:11px;
+  font-weight:600
+}
+
+.user-top .avatar {
+  width:31px;
+  height:31px
+}
+
+.container {
+  width:min(100%,1440px);
+  padding:34px 40px 44px;
+  margin:0 auto;
+  flex:1
+}
+
+.view {
+  display:none;
+  animation:fade .2s
+}
+
+.view.active {
+  display:block
+}
+
+@keyframes fade {
+  from {
+    opacity:.3;
+    transform:translateY(3px)
+  }
+
+  to {
+    opacity:1;
+    transform:none
+  }
+}
+
+h1 {
+  font-size:29px;
+  line-height:1.2;
+  letter-spacing:-1px;
+  margin:5px 0 8px
+}
+
+h2,h3,p {
+  margin-top:0
+}
+
+h2 {
+  letter-spacing:-.5px
+}
+
+.sub {
+  font-size:12px;
+  color:var(--muted);
+  margin:0;
+  line-height:1.6
+}
+
+.heading {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+  margin-bottom:25px
+}
+
+.primary,.secondary,.light {
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  min-height:41px;
+  border-radius:10px;
+  padding:10px 15px;
+  font-size:11px;
+  font-weight:700;
+  border:1px solid transparent;
+  white-space:nowrap
+}
+
+.primary {
+  background:var(--green);
+  color:#fff;
+  box-shadow:0 4px 9px #2457c518
+}
+
+.primary:hover {
+  background:var(--deep)
+}
+
+.secondary {
+  background:#fff;
+  border-color:#dce3dc;
+  color:var(--green)
+}
+
+.secondary:hover {
+  background:var(--soft)
+}
+
+.light {
+  background:white;
+  color:var(--green)
+}
+
+.hero {
+  min-height:250px;
+  border-radius:19px;
+  overflow:hidden;
+  position:relative;
+  background:var(--green);
+  color:#fff;
+  display:flex;
+  align-items:center;
+  margin-bottom:29px
+}
+
+.hero-copy {
+  padding:29px 36px;
+  position:relative;
+  z-index:2;
+  max-width:480px
+}
+
+.eyebrow {
+  font-size:9px;
+  letter-spacing:1.3px;
+  font-weight:700;
+  color:#d5e2ff
+}
+
+.hero h2 {
+  font-size:31px;
+  line-height:1.18;
+  letter-spacing:-1px;
+  margin:13px 0 10px
+}
+
+.hero h2 em {
+  font-style:normal;
+  color:#dbe6ff
+}
+
+.hero-copy>p:not(.eyebrow) {
+  font-size:11px;
+  line-height:1.7;
+  color:#d9e4ff;
+  max-width:350px;
+  margin-bottom:18px
+}
+
+.hero-art {
+  position:absolute;
+  right:4%;
+  top:0;
+  bottom:0;
+  width:44%;
+  min-width:320px
+}
+
+.ring {
+  position:absolute;
+  border:1px solid #ffffff30;
+  border-radius:50%;
+  width:290px;
+  height:290px;
+  right:45px;
+  top:50%;
+  transform:translateY(-50%)
+}
+
+.r2 {
+  width:210px;
+  height:210px;
+  right:85px
+}
+
+.hero-mark {
+  position:absolute;
+  display:grid;
+  place-items:center;
+  width:76px;
+  height:76px;
+  border-radius:23px;
+  background:#f7f4e8;
+  color:var(--green);
+  font-size:48px;
+  right:152px;
+  top:50%;
+  transform:translateY(-50%) rotate(-5deg);
+  box-shadow:0 15px 30px #142c5a55
+}
+
+.person {
+  position:absolute;
+  display:grid;
+  place-items:center;
+  width:41px;
+  height:41px;
+  border-radius:50%;
+  border:4px solid #f4e9d8;
+  background:#c28c68;
+  color:#fff;
+  font-size:11px;
+  font-weight:700;
+  box-shadow:0 5px 14px #142c5a50
+}
+
+.p1 {
+  right:162px;
+  top:20px
+}
+
+.p2 {
+  right:20px;
+  top:83px;
+  background:#b87959
+}
+
+.p3 {
+  right:49px;
+  bottom:20px;
+  background:#8b5e48
+}
+
+.p4 {
+  right:238px;
+  bottom:35px;
+  background:#d5a581
+}
+
+.bubble {
+  position:absolute;
+  background:#fff;
+  color:#4b5e82;
+  font-size:9px;
+  font-weight:700;
+  padding:7px 10px;
+  border-radius:8px
+}
+
+.b1 {
+  right:0;
+  top:34px
+}
+
+.b2 {
+  right:0;
+  bottom:42px
+}
+
+.section-head,.panel-head {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:15px
+}
+
+.section-head {
+  margin-bottom:14px
+}
+
+.section-head h2 {
+  font-size:17px;
+  margin:0 0 4px
+}
+
+.section-head .sub {
+  font-size:10px
+}
+
+.stats {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:15px;
+  margin-bottom:25px
+}
+
+.stat,.panel {
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:15px
+}
+
+.stat {
+  padding:18px 20px
+}
+
+.stat-label {
+  font-size:11px;
+  color:#69756d;
+  display:flex;
+  align-items:center;
+  justify-content:space-between
+}
+
+.stat-ico {
+  width:32px;
+  height:32px;
+  border-radius:10px;
+  display:grid;
+  place-items:center;
+  font-size:16px
+}
+
+.mint {
+  background:#e4ecff;
+  color:#2457c5
+}
+
+.sand {
+  background:#f8efdc;
+  color:#9b762f
+}
+
+.lilac {
+  background:#f0e9f8;
+  color:#8060a4
+}
+
+.stat>strong {
+  font-size:24px;
+  letter-spacing:-.6px;
+  display:block;
+  margin-top:11px
+}
+
+.stat>strong small {
+  font-size:9px;
+  background:#e8efff;
+  color:#2457c5;
+  border-radius:5px;
+  padding:4px 5px;
+  letter-spacing:0
+}
+
+.stat>p {
+  font-size:10px;
+  color:#89928c;
+  margin:7px 0 0
+}
+
+.two-col {
+  display:grid;
+  grid-template-columns:1.05fr .95fr;
+  gap:16px;
+  margin-bottom:24px
+}
+
+.panel {
+  padding:20px;
+  min-width:0
+}
+
+.panel-head {
+  margin-bottom:16px
+}
+
+.panel-head h3 {
+  font-size:13px;
+  margin:0 0 4px
+}
+
+.panel-head p {
+  font-size:10px;
+  color:var(--muted);
+  margin:0
+}
+
+.group-row,.activity-row {
+  display:flex;
+  align-items:center;
+  gap:10px;
+  border-top:1px solid #f0f2ee;
+  padding:12px 0
+}
+
+.group-row:first-child,.activity-row:first-child {
+  border-top:0;
+  padding-top:0
+}
+
+.group-row {
+  cursor:pointer
+}
+
+.group-symbol {
+  width:40px;
+  height:40px;
+  border-radius:12px;
+  display:grid;
+  place-items:center;
+  font-size:20px;
+  flex-shrink:0
+}
+
+.health {
+  background:#e4ecff;
+  color:#2457c5
+}
+
+.family {
+  background:#f8efdc;
+  color:#9b762f
+}
+
+.community {
+  background:#e7edf8;
+  color:#5576a8
+}
+
+.education {
+  background:#f0e9f8;
+  color:#8060a4
+}
+
+.celebration {
+  background:#f8e8e9;
+  color:#a35e68
+}
+
+.group-copy {
+  flex:1;
+  min-width:0
+}
+
+.group-copy b {
+  display:block;
+  font-size:10px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis
+}
+
+.group-copy small {
+  font-size:9px;
+  color:#8a938c
+}
+
+.group-money {
+  text-align:right;
+  min-width:75px
+}
+
+.group-money b {
+  display:block;
+  font-size:10px
+}
+
+.group-money small {
+  font-size:9px;
+  color:#8b948e
+}
+
+.progress {
+  height:5px;
+  border-radius:10px;
+  background:#edf1ec;
+  overflow:hidden;
+  margin-top:8px
+}
+
+.progress span {
+  height:100%;
+  display:block;
+  background:#477be0;
+  border-radius:10px
+}
+
+.panel-link {
+  width:100%;
+  text-align:left;
+  border:0;
+  border-top:1px solid #f0f2ee;
+  background:transparent;
+  color:var(--green);
+  font-size:10px;
+  font-weight:700;
+  padding:14px 0 0;
+  margin-top:5px
+}
+
+.activity-icon {
+  width:31px;
+  height:31px;
+  border-radius:9px;
+  background:#eaf1ff;
+  color:var(--green);
+  display:grid;
+  place-items:center;
+  flex-shrink:0
+}
+
+.activity-copy {
+  flex:1;
+  min-width:0
+}
+
+.activity-copy p {
+  font-size:10px;
+  line-height:1.55;
+  margin:0 0 3px
+}
+
+.activity-copy small {
+  font-size:9px;
+  color:#89928c
+}
+
+.activity-amount {
+  font-size:10px;
+  font-weight:700;
+  color:var(--green);
+  white-space:nowrap
+}
+
+.discover-callout {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+  background:#eef3ff;
+  border:1px solid #dce6f8;
+  border-radius:15px;
+  padding:21px 24px
+}
+
+.discover-callout h3 {
+  font-size:14px;
+  margin:5px 0
+}
+
+.discover-callout p:not(.overline) {
+  font-size:10px;
+  color:var(--muted);
+  margin:0
+}
+
+.discover-callout .overline {
+  margin:0
+}
+
+.container .overline {
+  font-size:9px
+}
+
+.toolbar {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:14px;
+  margin-bottom:22px
+}
+
+.search {
+  display:flex;
+  align-items:center;
+  gap:9px;
+  border:1px solid #dfe5de;
+  border-radius:10px;
+  background:#fff;
+  min-height:41px;
+  padding:0 12px;
+  color:#89948b;
+  width:min(100%,330px);
+  font-size:19px
+}
+
+.search input {
+  border:0;
+  outline:0;
+  min-width:0;
+  width:100%;
+  font-size:11px
+}
+
+.search:focus-within {
+  border-color:#91aeeb;
+  box-shadow:0 0 0 3px #e7eeff
+}
+
+.toolbar select {
+  border:1px solid #dfe5de;
+  background:white;
+  border-radius:10px;
+  padding:11px 32px 11px 12px;
+  font-size:11px;
+  color:#4d5b51
+}
+
+.cards {
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:16px
+}
+
+.group-card {
+  background:#fff;
+  border:1px solid var(--line);
+  border-radius:15px;
+  overflow:hidden;
+  cursor:pointer;
+  transition:.18s
+}
+
+.group-card:hover {
+  transform:translateY(-3px);
+  box-shadow:0 8px 28px #172d570e
+}
+
+.card-art {
+  height:85px;
+  padding:14px;
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-start;
+  position:relative;
+  overflow:hidden
+}
+
+.card-art:after {
+  content:"";
+  position:absolute;
+  width:120px;
+  height:120px;
+  border:1px solid #ffffff7a;
+  border-radius:50%;
+  right:-30px;
+  top:-65px
+}
+
+.tag,.vis {
+  font-size:9px;
+  font-weight:700;
+  padding:5px 7px;
+  border-radius:6px;
+  background:#ffffffb8;
+  position:relative;
+  z-index:1
+}
+
+.vis {
+  background:#fff;
+  color:#637067
+}
+
+.card-content {
+  padding:16px
+}
+
+.card-content h3 {
+  font-size:13px;
+  margin:0 0 7px;
+  line-height:1.4
+}
+
+.card-content .desc {
+  font-size:10px;
+  color:#7e8981;
+  line-height:1.6;
+  min-height:33px;
+  margin:0 0 13px
+}
+
+.card-progress {
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  font-size:9px;
+  margin-bottom:7px
+}
+
+.card-progress b {
+  font-size:10px
+}
+
+.card-progress span {
+  color:#89928c
+}
+
+.card-bottom {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  border-top:1px solid #f0f2ee;
+  margin-top:13px;
+  padding-top:12px
+}
+
+.members {
+  font-size:9px;
+  color:#879189
+}
+
+.card-action {
+  font-size:9px;
+  font-weight:700;
+  color:var(--green)
+}
+
+.discover-hero {
+  background:var(--green);
+  color:#fff;
+  border-radius:18px;
+  padding:28px 30px;
+  margin-bottom:23px;
+  position:relative;
+  overflow:hidden
+}
+
+.discover-hero h2 {
+  font-size:27px;
+  line-height:1.2;
+  margin:10px 0
+}
+
+.discover-hero>p:not(.overline) {
+  font-size:11px;
+  line-height:1.7;
+  color:#d9e4ff;
+  max-width:410px;
+  margin:0
+}
+
+.discover-hero .overline {
+  color:#d5e2ff
+}
+
+.feature-stats {
+  display:flex;
+  gap:24px;
+  margin-top:22px
+}
+
+.feature-stats span {
+  display:grid;
+  gap:4px;
+  border-left:1px solid #ffffff40;
+  padding-left:15px
+}
+
+.feature-stats span:first-child {
+  border:0;
+  padding-left:0
+}
+
+.feature-stats b {
+  font-size:12px
+}
+
+.feature-stats small {
+  font-size:9px;
+  color:#d9e4ff
+}
+
+.filters {
+  display:flex;
+  gap:7px;
+  flex-wrap:wrap
+}
+
+.filter {
+  border:1px solid #dfe5de;
+  border-radius:20px;
+  background:#fff;
+  color:#66736a;
+  padding:9px 12px;
+  font-size:10px;
+  font-weight:600
+}
+
+.filter.active,.filter:hover {
+  background:var(--soft);
+  border-color:#cbd8f7;
+  color:var(--green)
+}
+
+.back {
+  border:0;
+  background:transparent;
+  color:#66736a;
+  font-size:11px;
+  font-weight:600;
+  margin:0 0 18px;
+  padding:0
+}
+
+.detail-cover {
+  border-radius:17px;
+  padding:25px;
+  background:#dce7ff;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:20px;
+  margin-bottom:17px
+}
+
+.detail-cover h1 {
+  font-size:26px;
+  margin:12px 0 7px
+}
+
+.detail-cover p {
+  font-size:11px;
+  color:#4b5e82;
+  margin:0;
+  max-width:580px
+}
+
+.detail-actions {
+  display:flex;
+  gap:8px;
+  flex-wrap:wrap
+}
+
+.metrics {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:13px;
+  margin-bottom:18px
+}
+
+.metric {
+  padding:17px;
+  background:white;
+  border:1px solid var(--line);
+  border-radius:13px
+}
+
+.metric span {
+  font-size:10px;
+  color:#7b877e;
+  display:block;
+  margin-bottom:7px
+}
+
+.metric b {
+  font-size:22px;
+  letter-spacing:-.5px
+}
+
+.metric small {
+  display:block;
+  color:#8b948e;
+  font-size:9px;
+  margin-top:4px
+}
+
+.tabs {
+  display:flex;
+  gap:22px;
+  border-bottom:1px solid var(--line);
+  margin-bottom:18px;
+  overflow:auto
+}
+
+.tab {
+  border:0;
+  border-bottom:2px solid transparent;
+  background:transparent;
+  color:#79847c;
+  font-size:11px;
+  font-weight:600;
+  padding:0 0 12px;
+  white-space:nowrap
+}
+
+.tab.active {
+  border-color:var(--green);
+  color:var(--green)
+}
+
+.detail-grid {
+  display:grid;
+  grid-template-columns:1.4fr .8fr;
+  gap:16px
+}
+
+.detail-section {
+  display:none
+}
+
+.detail-section.active {
+  display:block
+}
+
+.record {
+  display:flex;
+  align-items:center;
+  gap:10px;
+  border-top:1px solid #f0f2ee;
+  padding:12px 0
+}
+
+.record:first-child {
+  border:0;
+  padding-top:0
+}
+
+.record-icon {
+  width:35px;
+  height:35px;
+  border-radius:10px;
+  background:#eaf1ff;
+  color:var(--green);
+  display:grid;
+  place-items:center;
+  flex-shrink:0
+}
+
+.record-copy {
+  flex:1;
+  min-width:0
+}
+
+.record-copy b {
+  display:block;
+  font-size:10px
+}
+
+.record-copy small {
+  display:block;
+  font-size:9px;
+  color:#8a948d;
+  margin-top:3px
+}
+
+.record-value {
+  font-size:10px;
+  font-weight:700;
+  white-space:nowrap
+}
+
+.positive {
+  color:var(--green)
+}
+
+.pill {
+  display:inline-flex;
+  border-radius:7px;
+  padding:5px 7px;
+  background:#eef1ed;
+  color:#68736c;
+  font-size:9px;
+  font-weight:700
+}
+
+.green {
+  background:#e8efff;
+  color:var(--green)
+}
+
+.pill.pending {
+  background:#fff3d8;
+  color:#8b6a24
+}
+
+.side-card {
+  margin-bottom:14px
+}
+
+.side-card h3 {
+  font-size:12px
+}
+
+.info-row {
+  display:flex;
+  justify-content:space-between;
+  gap:8px;
+  padding:10px 0;
+  border-top:1px solid #f0f2ee;
+  font-size:10px
+}
+
+.info-row span {
+  color:#7d8880
+}
+
+.info-row b {
+  text-align:right
+}
+
+.side-card p {
+  font-size:10px;
+  color:#758078;
+  line-height:1.7
+}
+
+.empty {
+  grid-column:1/-1;
+  text-align:center;
+  padding:40px 15px;
+  border:1px dashed #d8e1d8;
+  border-radius:15px;
+  color:var(--muted);
+  background:#fff
+}
+
+.empty b {
+  display:block;
+  color:var(--ink);
+  margin-bottom:5px
+}
+
+.create-layout {
+  display:grid;
+  grid-template-columns:1.5fr .7fr;
+  gap:17px;
+  align-items:start
+}
+
+.create-panel {
+  padding:23px
+}
+
+.steps {
+  display:flex;
+  align-items:center;
+  margin-bottom:29px;
+  gap:10px
+}
+
+.step {
+  display:flex;
+  align-items:center;
+  gap:8px;
+  opacity:.45;
+  min-width:0
+}
+
+.step.active,.step.done {
+  opacity:1
+}
+
+.step>b {
+  width:28px;
+  height:28px;
+  border-radius:50%;
+  border:1px solid #d8e1d8;
+  display:grid;
+  place-items:center;
+  font-size:10px;
+  flex-shrink:0
+}
+
+.step.active>b,.step.done>b {
+  background:var(--green);
+  color:white;
+  border-color:var(--green)
+}
+
+.step>span {
+  font-size:10px;
+  font-weight:700;
+  white-space:nowrap
+}
+
+.step small {
+  display:block;
+  font-size:8px;
+  color:#8a948d;
+  font-weight:400
+}
+
+.steps>i {
+  height:1px;
+  background:#e1e7e0;
+  flex:1
+}
+
+.form-step {
+  display:none
+}
+
+.form-step.active {
+  display:block
+}
+
+.form-step h2 {
+  font-size:18px;
+  margin:0 0 6px
+}
+
+.form-step>p {
+  margin-bottom:20px
+}
+
+.purposes {
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:9px
+}
+
+.purposes label {
+  position:relative;
+  border:1px solid #e1e7e0;
+  border-radius:11px;
+  padding:12px 10px;
+  min-height:120px;
+  display:flex;
+  flex-direction:column;
+  align-items:flex-start;
+  cursor:pointer
+}
+
+.purposes label:has(input:checked) {
+  border-color:var(--green);
+  box-shadow:0 0 0 1px var(--green);
+  background:#f6f8ff
+}
+
+.purposes input {
+  position:absolute;
+  opacity:0
+}
+
+.purposes label>span {
+  width:32px;
+  height:32px;
+  border-radius:9px;
+  background:#e4ecff;
+  color:var(--green);
+  display:grid;
+  place-items:center;
+  font-size:20px;
+  margin-bottom:10px
+}
+
+.purposes b {
+  font-size:10px;
+  margin-bottom:4px
+}
+
+.purposes small {
+  font-size:9px;
+  color:#879189;
+  line-height:1.5
+}
+
+.form-actions {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:12px;
+  border-top:1px solid #edf0eb;
+  margin-top:23px;
+  padding-top:17px
+}
+
+.form-actions>small {
+  font-size:9px;
+  color:var(--muted)
+}
+
+.field {
+  display:block;
+  font-size:11px;
+  font-weight:700;
+  margin:15px 0
+}
+
+.field em {
+  font-style:normal;
+  color:#ba4b3f
+}
+
+.input {
+  width:100%;
+  display:block;
+  margin-top:7px;
+  border:1px solid #dfe5de;
+  border-radius:9px;
+  padding:11px 12px;
+  outline:0;
+  font-size:11px;
+  resize:vertical
+}
+
+.input:focus {
+  border-color:#91aeeb;
+  box-shadow:0 0 0 3px #e7eeff
+}
+
+.input::placeholder {
+  color:#a3aba5
+}
+
+.form-row {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:13px
+}
+
+.access {
+  display:grid;
+  gap:9px
+}
+
+.access label {
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding:14px;
+  border:1px solid #e1e7e0;
+  border-radius:11px;
+  cursor:pointer
+}
+
+.access label:has(input:checked) {
+  border-color:var(--green);
+  background:#f6f8ff
+}
+
+.access input {
+  accent-color:var(--green)
+}
+
+.access label>span {
+  color:var(--green);
+  font-size:18px
+}
+
+.access label div {
+  display:grid;
+  gap:4px
+}
+
+.access b {
+  font-size:11px
+}
+
+.access small {
+  font-size:9px;
+  color:#7d8880;
+  line-height:1.5
+}
+
+.notice {
+  font-size:10px;
+  line-height:1.7;
+  color:#7b6c4d;
+  background:#f8f7f2;
+  border:1px solid #eeece3;
+  border-radius:10px;
+  padding:12px;
+  margin-top:17px
+}
+
+.preview {
+  padding:19px
+}
+
+.preview-art {
+  height:105px;
+  display:grid;
+  place-items:center;
+  border-radius:11px;
+  background:#f1f5ef;
+  color:var(--green);
+  font-size:47px;
+  margin:17px 0
+}
+
+.preview h3 {
+  text-align:center;
+  font-size:13px;
+  margin:0 0 4px
+}
+
+.preview>p:not(.overline) {
+  text-align:center;
+  font-size:10px;
+  color:var(--muted)
+}
+
+.preview hr {
+  border:0;
+  border-top:1px solid #edf0eb;
+  margin:16px 0 7px
+}
+
+.preview>div:not(.preview-art) {
+  display:flex;
+  justify-content:space-between;
+  padding:8px 0;
+  font-size:10px
+}
+
+.preview>div b {
+  font-size:10px
+}
+
+.preview>div span {
+  color:#859087
+}
+
+.preview>small {
+  display:block;
+  border-top:1px solid #edf0eb;
+  padding-top:12px;
+  margin-top:7px;
+  font-size:9px;
+  line-height:1.6;
+  color:#8b948e
+}
+
+.activity-full .activity-row {
+  padding:15px 0
+}
+
+.profile-layout {
+  display:grid;
+  grid-template-columns:.85fr 1.15fr;
+  gap:17px;
+  align-items:start
+}
+
+.profile-card {
+  padding:0;
+  overflow:hidden
+}
+
+.profile-cover {
+  height:100px;
+  background:#dce7ff
+}
+
+.profile-intro {
+  text-align:center;
+  padding:0 20px 21px;
+  border-bottom:1px solid #edf0eb
+}
+
+.big {
+  width:68px;
+  height:68px;
+  font-size:17px;
+  border:5px solid white;
+  margin-top:-36px;
+  position:relative
+}
+
+.profile-intro h2 {
+  font-size:17px;
+  margin:8px 0 3px
+}
+
+.profile-intro .sub {
+  font-size:10px;
+  margin-bottom:10px
+}
+
+.profile-info {
+  padding:10px 19px 16px
+}
+
+.profile-info div {
+  display:flex;
+  justify-content:space-between;
+  gap:10px;
+  padding:11px 0;
+  border-bottom:1px solid #f0f2ee;
+  font-size:10px
+}
+
+.profile-info div:last-child {
+  border:0
+}
+
+.profile-info span {
+  color:#7e8981
+}
+
+.profile-info b {
+  text-align:right;
+  font-weight:600
+}
+
+.settings-col {
+  display:grid;
+  gap:16px
+}
+
+.setting {
+  display:flex;
+  align-items:center;
+  gap:11px;
+  border-top:1px solid #f0f2ee;
+  padding:14px 0
+}
+
+.setting-icon {
+  width:33px;
+  height:33px;
+  border-radius:9px;
+  background:#edf2ff;
+  color:var(--green);
+  display:grid;
+  place-items:center;
+  font-size:17px
+}
+
+.setting>span:nth-child(2) {
+  flex:1;
+  display:grid;
+  gap:4px
+}
+
+.setting b,.settings-link b {
+  font-size:10px
+}
+
+.setting small,.settings-link small {
+  font-size:9px;
+  color:#859087
+}
+
+.switch {
+  position:relative;
+  width:34px;
+  height:19px;
+  flex-shrink:0
+}
+
+.switch input {
+  opacity:0;
+  width:0;
+  height:0
+}
+
+.switch i {
+  position:absolute;
+  inset:0;
+  border-radius:20px;
+  background:#cbd3cb;
+  transition:.2s
+}
+
+.switch i:before {
+  content:"";
+  position:absolute;
+  width:13px;
+  height:13px;
+  left:3px;
+  top:3px;
+  background:white;
+  border-radius:50%;
+  transition:.2s
+}
+
+.switch input:checked+i {
+  background:var(--green)
+}
+
+.switch input:checked+i:before {
+  transform:translateX(15px)
+}
+
+.settings-link {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  width:100%;
+  text-align:left;
+  background:transparent;
+  border:0;
+  border-top:1px solid #f0f2ee;
+  padding:14px 0;
+  color:var(--ink)
+}
+
+.settings-link span {
+  display:grid;
+  gap:4px
+}
+
+footer {
+  display:flex;
+  justify-content:space-between;
+  gap:15px;
+  padding:18px 40px 20px;
+  border-top:1px solid var(--line);
+  color:#929b94;
+  font-size:9px
+}
+
+footer>span:last-child {
+  display:flex;
+  gap:18px;
+  align-items:center
+}
+
+footer a:hover {
+  color:var(--green)
+}
+
+.demo-dot {
+  color:#68736c
+}
+
+.backdrop {
+  position:fixed;
+  inset:0;
+  background:#0e201773;
+  z-index:100;
+  display:none;
+  align-items:center;
+  justify-content:center;
+  padding:18px;
+  backdrop-filter:blur(4px)
+}
+
+.backdrop.open {
+  display:flex
+}
+
+.modal {
+  width:min(100%,475px);
+  max-height:85vh;
+  overflow:auto;
+  background:white;
+  border-radius:17px;
+  padding:26px;
+  position:relative;
+  box-shadow:0 24px 80px #102a1e35
+}
+
+.close {
+  position:absolute;
+  right:14px;
+  top:12px;
+  border:0;
+  background:transparent;
+  font-size:26px;
+  color:#7b867e
+}
+
+.modal h2 {
+  font-size:20px;
+  margin:0 30px 7px 0
+}
+
+.modal p {
+  font-size:11px;
+  color:var(--muted);
+  line-height:1.7
+}
+
+.modal-form {
+  display:grid;
+  gap:10px
+}
+
+.modal-form .field {
+  margin:7px 0 0
+}
+
+.modal-form .primary {
+  margin-top:9px
+}
+
+.toasts {
+  position:fixed;
+  right:20px;
+  bottom:20px;
+  display:grid;
+  gap:8px;
+  z-index:120
+}
+
+.toast {
+  background:#183d2d;
+  color:white;
+  padding:12px 15px;
+  border-radius:10px;
+  box-shadow:0 10px 30px #102a1e30;
+  max-width:380px;
+  font-size:11px
+}
+
+.hamb,.mobile-nav {
+  display:none
+}
+
+@media(max-width:1200px) {
+  .sidebar {
+    width:220px
+  }
+
+  .main-content,main {
+    margin-left:220px
+  }
+
+  .container {
+    padding:28px
+  }
+
+  .topbar,footer {
+    padding-left:28px;
+    padding-right:28px
+  }
+
+  .hero-art {
+    opacity:.7;
+    right:-20px
+  }
+
+  .cards {
+    grid-template-columns:repeat(2,minmax(0,1fr))
+  }
+
+  .two-col {
+    grid-template-columns:1fr 1fr
+  }
+
+  .create-layout {
+    grid-template-columns:1fr
+  }
+
+  .preview {
+    display:none
+  }
+}
+
+@media(max-width:900px) {
+  .sidebar {
+    width:205px;
+    padding:24px 12px 13px
+  }
+
+  .main-content,main {
+    margin-left:205px
+  }
+
+  .container {
+    padding:25px 20px
+  }
+
+  .topbar,footer {
+    padding-left:20px;
+    padding-right:20px
+  }
+
+  .two-col {
+    grid-template-columns:1fr
+  }
+
+  .hero-art {
+    opacity:.4
+  }
+
+  .detail-grid {
+    grid-template-columns:1fr
+  }
+
+  .profile-layout {
+    grid-template-columns:1fr
+  }
+
+  .profile-info {
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:0 18px
+  }
+
+  .profile-info div:nth-last-child(2) {
+    border:0
+  }
+}
+
+@media(max-width:700px) {
+  .sidebar {
+    transform:translateX(-100%);
+    transition:transform .23s;
+    width:270px;
+    z-index:60
+  }
+
+  .sidebar.open {
+    transform:translateX(0);
+    box-shadow:10px 0 35px #122c1c25
+  }
+
+  .main-content,main {
+    margin-left:0;
+    padding-bottom:76px
+  }
+
+  .topbar {
+    height:61px;
+    padding:0 14px
+  }
+
+  .hamb {
+    display:block;
+    border:0;
+    background:transparent;
+    color:var(--green);
+    font-size:20px;
+    margin-right:8px
+  }
+
+  .crumb {
+    margin-right:auto;
+    font-size:10px
+  }
+
+  .top-actions {
+    gap:9px
+  }
+
+  .divider,.user-top>span:not(.avatar),.user-top {
+    font-size:0
+  }
+
+  .user-top .avatar {
+    width:30px;
+    height:30px
+  }
+
+  .container {
+    padding:22px 15px 27px
+  }
+
+  .mobile-nav {
+    display:flex;
+    position:fixed;
+    z-index:50;
+    bottom:0;
+    left:0;
+    right:0;
+    height:69px;
+    background:#fff;
+    border-top:1px solid var(--line);
+    justify-content:space-around;
+    align-items:center;
+    padding:4px 4px calc(4px + env(safe-area-inset-bottom));
+    box-shadow:0 -5px 18px #1b39270a
+  }
+
+  .mobile-item {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:2px;
+    background:transparent;
+    border:0;
+    color:#8b958e;
+    min-width:49px;
+    min-height:50px;
+    font-size:20px
+  }
+
+  .mobile-item small {
+    font-size:8px;
+    font-weight:600
+  }
+
+  .mobile-item.active {
+    color:var(--green)
+  }
+
+  .mobile-add {
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:0;
+    border:0;
+    background:var(--green);
+    color:white;
+    width:44px;
+    height:44px;
+    border-radius:14px;
+    margin-top:-22px;
+    box-shadow:0 5px 12px #2457c540;
+    font-size:25px
+  }
+
+  .mobile-add small {
+    font-size:8px
+  }
+
+  .heading {
+    align-items:flex-start;
+    margin-bottom:20px;
+    gap:10px
+  }
+
+  h1 {
+    font-size:25px
+  }
+
+  .heading .primary,.heading .secondary {
+    padding:9px 10px;
+    font-size:10px;
+    min-height:38px
+  }
+
+  .hero {
+    min-height:240px;
+    margin-bottom:23px
+  }
+
+  .hero-copy {
+    padding:22px 19px;
+    max-width:100%;
+    width:100%
+  }
+
+  .hero h2 {
+    font-size:27px
+  }
+
+  .hero-copy>p:not(.eyebrow) {
+    font-size:10px;
+    max-width:270px
+  }
+
+  .hero-art {
+    opacity:.18;
+    right:-80px
+  }
+
+  .section-head h2 {
+    font-size:16px
+  }
+
+  .section-head .sub {
+    font-size:9px
+  }
+
+  .stats {
+    grid-template-columns:1fr 1fr;
+    gap:9px;
+    margin-bottom:19px
+  }
+
+  .stat:first-child {
+    grid-column:1/-1
+  }
+
+  .stat {
+    padding:13px;
+    border-radius:12px
+  }
+
+  .stat-label {
+    font-size:9px
+  }
+
+  .stat-ico {
+    width:28px;
+    height:28px
+  }
+
+  .stat>strong {
+    font-size:21px
+  }
+
+  .stat>p {
+    font-size:9px
+  }
+
+  .panel {
+    padding:16px;
+    border-radius:13px
+  }
+
+  .panel-head h3 {
+    font-size:12px
+  }
+
+  .group-symbol {
+    width:36px;
+    height:36px
+  }
+
+  .group-copy b,.group-money b {
+    font-size:9px
+  }
+
+  .group-copy small,.group-money small {
+    font-size:8px
+  }
+
+  .group-money {
+    min-width:62px
+  }
+
+  .activity-copy p {
+    font-size:9px
+  }
+
+  .activity-amount {
+    font-size:9px
+  }
+
+  .discover-callout {
+    align-items:flex-start;
+    flex-direction:column;
+    padding:18px
+  }
+
+  .discover-callout .secondary {
+    width:100%
+  }
+
+  .toolbar {
+    flex-direction:column;
+    align-items:stretch;
+    margin-bottom:16px
+  }
+
+  .search {
+    width:100%
+  }
+
+  .toolbar select {
+    width:100%
+  }
+
+  .cards {
+    grid-template-columns:1fr;
+    gap:11px
+  }
+
+  .group-card {
+    display:grid;
+    grid-template-columns:88px 1fr
+  }
+
+  .card-art {
+    height:100%;
+    min-height:176px;
+    flex-direction:column;
+    gap:5px;
+    padding:9px
+  }
+
+  .tag,.vis {
+    font-size:8px;
+    padding:4px 5px
+  }
+
+  .card-content {
+    padding:13px
+  }
+
+  .card-content h3 {
+    font-size:12px
+  }
+
+  .card-content .desc {
+    min-height:0;
+    margin-bottom:10px
+  }
+
+  .card-bottom {
+    margin-top:10px;
+    padding-top:9px
+  }
+
+  .discover-hero {
+    padding:21px;
+    margin-bottom:17px
+  }
+
+  .discover-hero h2 {
+    font-size:25px
+  }
+
+  .discover-hero>p:not(.overline) {
+    font-size:10px
+  }
+
+  .feature-stats {
+    gap:0;
+    justify-content:space-between
+  }
+
+  .feature-stats span {
+    padding-left:9px
+  }
+
+  .feature-stats b {
+    font-size:10px
+  }
+
+  .feature-stats small {
+    font-size:7px
+  }
+
+  .discover-tools {
+    gap:12px
+  }
+
+  .filters {
+    gap:5px
+  }
+
+  .filter {
+    padding:8px 9px;
+    font-size:9px
+  }
+
+  .detail-cover {
+    padding:20px;
+    display:block
+  }
+
+  .detail-cover h1 {
+    font-size:23px
+  }
+
+  .detail-actions {
+    margin-top:16px
+  }
+
+  .detail-actions .primary,.detail-actions .secondary {
+    font-size:9px;
+    padding:9px
+  }
+
+  .metrics {
+    grid-template-columns:1fr 1fr;
+    gap:8px
+  }
+
+  .metric {
+    padding:13px
+  }
+
+  .metric:last-child {
+    grid-column:1/-1
+  }
+
+  .metric b {
+    font-size:20px
+  }
+
+  .tabs {
+    gap:17px
+  }
+
+  .tab {
+    font-size:10px
+  }
+
+  .create-panel {
+    padding:15px
+  }
+
+  .steps {
+    gap:6px;
+    margin-bottom:23px
+  }
+
+  .step {
+    gap:5px
+  }
+
+  .step>b {
+    width:24px;
+    height:24px;
+    font-size:9px
+  }
+
+  .step>span {
+    font-size:9px
+  }
+
+  .step small {
+    display:none
+  }
+
+  .steps>i {
+    margin:0 2px
+  }
+
+  .form-step h2 {
+    font-size:16px
+  }
+
+  .purposes {
+    grid-template-columns:1fr 1fr;
+    gap:7px
+  }
+
+  .purposes label {
+    min-height:117px;
+    padding:10px
+  }
+
+  .purposes b {
+    font-size:9px
+  }
+
+  .purposes small {
+    font-size:8px
+  }
+
+  .form-actions {
+    margin-top:18px;
+    padding-top:14px
+  }
+
+  .form-actions>small {
+    display:none
+  }
+
+  .form-actions .primary,.form-actions .secondary {
+    flex:1
+  }
+
+  .form-row {
+    grid-template-columns:1fr;
+    gap:0
+  }
+
+  .profile-info {
+    display:block
+  }
+
+  .profile-info div:nth-last-child(2) {
+    border-bottom:1px solid #f0f2ee
+  }
+
+  .settings-col {
+    gap:12px
+  }
+
+  .setting b,.settings-link b {
+    font-size:9px
+  }
+
+  .setting small,.settings-link small {
+    font-size:8px
+  }
+
+  footer {
+    padding:15px;
+    flex-direction:column;
+    align-items:flex-start;
+    font-size:8px
+  }
+
+  footer>span:last-child {
+    gap:12px;
+    flex-wrap:wrap
+  }
+
+  .toasts {
+    left:12px;
+    right:12px;
+    bottom:80px
+  }
+
+  .toast {
+    max-width:none
+  }
+
+  .modal {
+    padding:23px 17px
+  }
+}
+
+@media(prefers-reduced-motion:reduce) {
+  * {
+    scroll-behavior:auto!important;
+    animation-duration:.01ms!important;
+    transition-duration:.01ms!important
+  }
+}
+
+/* Cause-specific artwork tones */
+.art-health {
+  background:#dbece0;
+  color:#245f43
+}
+
+.art-family {
+  background:#f5e7cf;
+  color:#8b672f
+}
+
+.art-community {
+  background:#dce6f4;
+  color:#486b9d
+}
+
+.art-education {
+  background:#e9def3;
+  color:#795a9c
+}
+
+.art-celebration {
+  background:#f5dfe0;
+  color:#9a5d65
+}
+
+
+/* =========================================================
+   KAFO: DISCOVER, MY GROUPS, PROFILE & MOBILE IMPROVEMENTS
+   Add this block at the very bottom of styles.css
+   ========================================================= */
+
+:root {
+  --blue: #2457c5;
+  --deep: #183f91;
+  --soft-blue: #eaf1ff;
+  --page-bg: #f7f8fc;
+  --panel-bg: #ffffff;
+  --ink: #202923;
+  --muted: #68736c;
+  --border: #e5e9f1;
+  --gold: #d6a84f;
+}
+
+body {
+  background: var(--page-bg);
+  color: var(--ink);
+  line-height: 1.55;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible,
+[data-open]:focus-visible {
+  outline: 3px solid #8bb3ff;
+  outline-offset: 3px;
+}
+
+.primary,
+.secondary,
+.light {
+  min-height: 44px;
+  border-radius: 10px;
+  transition:
+    background-color 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease;
+}
+
+.primary {
+  background: var(--blue);
+  border: 1px solid var(--blue);
+  color: #fff;
+  font-weight: 700;
+  padding: 11px 16px;
+}
+
+.primary:hover {
+  background: var(--deep);
+  border-color: var(--deep);
+}
+
+.secondary {
+  background: #fff;
+  border: 1px solid #d8e0ef;
+  color: var(--deep);
+  font-weight: 600;
+  padding: 10px 15px;
+}
+
+.secondary:hover {
+  background: var(--soft-blue);
+  border-color: #b7cafa;
+}
+
+.text,
+.card-action,
+.settings-link {
+  color: var(--blue);
+}
+
+input,
+select,
+textarea {
+  max-width: 100%;
+}
+
+input:not([type="checkbox"]):not([type="radio"]),
+select,
+textarea {
+  border-color: #d9e0eb;
+}
+
+input:not([type="checkbox"]):not([type="radio"]):focus,
+select:focus,
+textarea:focus {
+  border-color: var(--blue);
+  outline-color: #a9c5ff;
+}
+
+.view {
+  min-width: 0;
+}
+
+.heading {
+  align-items: center;
+  gap: 18px;
+}
+
+.heading h1 {
+  letter-spacing: -0.035em;
+}
+
+.sub {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+/* Discover page */
+
+.discover-hero {
+  position: relative;
+  overflow: hidden;
+  border-radius: 20px;
+  background:
+    radial-gradient(
+      circle at 88% 20%,
+      rgba(255, 255, 255, 0.16),
+      transparent 28%
+    ),
+    linear-gradient(125deg, #183f91, #2457c5 65%, #4679dc);
+  color: #fff;
+  padding: clamp(24px, 4vw, 42px);
+  margin: 22px 0 24px;
+}
+
+.discover-hero .overline {
+  color: #dbe7ff;
+}
+
+.discover-hero h2 {
+  max-width: 580px;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.13;
+  letter-spacing: -0.04em;
+  margin: 12px 0;
+}
+
+.discover-hero > p:not(.overline) {
+  max-width: 560px;
+  color: #edf3ff;
+  line-height: 1.7;
+}
+
+.feature-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.feature-stats > span {
+  display: grid;
+  gap: 3px;
+  min-width: 115px;
+  padding: 12px 14px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.feature-stats b {
+  color: #fff;
+  font-size: 13px;
+}
+
+.feature-stats small {
+  color: #e0eaff;
+  font-size: 11px;
+}
+
+.discover-tools {
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.search {
+  min-width: 0;
+}
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filter {
+  min-height: 38px;
+  padding: 8px 13px;
+  border: 1px solid #dce3ef;
+  border-radius: 999px;
+  background: #fff;
+  color: #475467;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.filter:hover,
+.filter.active {
+  color: var(--deep);
+  border-color: #b9cdf9;
+  background: var(--soft-blue);
+}
+
+.cards {
+  align-items: stretch;
+}
+
+.group-card {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 3px 12px rgba(24, 63, 145, 0.035);
+  transition:
+    box-shadow 160ms ease,
+    transform 160ms ease,
+    border-color 160ms ease;
+}
+
+.group-card:hover {
+  border-color: #c5d4f4;
+  box-shadow: 0 10px 28px rgba(24, 63, 145, 0.09);
+  transform: translateY(-2px);
+}
+
+.group-card:focus-visible {
+  outline: 3px solid #8bb3ff;
+  outline-offset: 3px;
+}
+
+.card-content {
+  padding: 18px;
+}
+
+.card-content h3 {
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.desc {
+  color: var(--muted);
+  line-height: 1.65;
+}
+
+.progress {
+  overflow: hidden;
+  height: 7px;
+  border-radius: 999px;
+  background: #e9eef8;
+}
+
+.progress span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--blue), #6d96ed);
+}
+
+.card-progress {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.card-progress b {
+  color: var(--deep);
+}
+
+.card-bottom {
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.members {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+/* My Groups page */
+
+#view-groups .toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  margin: 22px 0;
+}
+
+#view-groups .toolbar .search {
+  flex: 1 1 240px;
+}
+
+#view-groups #groupFilter {
+  min-height: 44px;
+  padding: 10px 36px 10px 12px;
+  border: 1px solid #d9e0eb;
+  border-radius: 10px;
+  background: #fff;
+  color: var(--ink);
+}
+
+#allGroups {
+  margin-top: 12px;
+}
+
+.group-row {
+  min-width: 0;
+  gap: 14px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: #fff;
+  padding: 16px;
+  margin-bottom: 10px;
+  transition: border-color 160ms ease, background 160ms ease;
+}
+
+.group-row:hover {
+  border-color: #c5d4f4;
+  background: #fbfcff;
+}
+
+.group-copy {
+  min-width: 0;
+}
+
+.group-copy b,
+.group-copy small {
+  overflow-wrap: anywhere;
+}
+
+.group-money {
+  white-space: nowrap;
+}
+
+.empty {
+  padding: 32px 20px;
+  border: 1px dashed #cbd5e5;
+  border-radius: 14px;
+  background: #fff;
+  color: var(--muted);
+  text-align: center;
+  line-height: 1.7;
+}
+
+.empty b {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--ink);
+}
+
+/* Profile and account overview */
+
+.profile-layout {
+  align-items: start;
+  gap: 20px;
+}
+
+.profile-card,
+.account-summary,
+.settings-col > .panel {
+  min-width: 0;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: #fff;
+  box-shadow: 0 3px 12px rgba(24, 63, 145, 0.035);
+}
+
+.profile-cover {
+  min-height: 100px;
+  background:
+    radial-gradient(
+      circle at 85% 10%,
+      rgba(255, 255, 255, 0.28),
+      transparent 26%
+    ),
+    linear-gradient(120deg, #183f91, #2457c5);
+}
+
+.profile-intro {
+  padding: 0 22px 18px;
+}
+
+.avatar.big {
+  display: inline-grid;
+  place-items: center;
+  width: 68px;
+  height: 68px;
+  margin-top: -32px;
+  border: 4px solid #fff;
+  border-radius: 50%;
+  background: var(--soft-blue);
+  color: var(--deep);
+  font-size: 21px;
+  font-weight: 800;
+}
+
+.profile-intro h2 {
+  margin: 8px 0 4px;
+  overflow-wrap: anywhere;
+}
+
+.profile-info {
+  border-top: 1px solid var(--border);
+}
+
+.profile-info > div {
+  padding: 14px 22px;
+  border-bottom: 1px solid #eef1f6;
+}
+
+.profile-info > div:last-child {
+  border-bottom: 0;
+}
+
+.profile-info span,
+.account-detail-row span {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.profile-info b,
+.account-detail-row b {
+  display: block;
+  margin-top: 4px;
+  overflow-wrap: anywhere;
+  font-size: 13px;
+}
+
+.account-summary {
+  padding: 20px;
+}
+
+.account-summary .panel-head {
+  gap: 12px;
+}
+
+.account-status {
+  flex-shrink: 0;
+  border-radius: 999px;
+  background: var(--soft-blue);
+  color: var(--deep);
+  padding: 6px 9px;
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.account-summary-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+  margin: 18px 0;
+}
+
+.account-summary-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  padding: 14px 10px;
+  border: 1px solid #e5ebf7;
+  border-radius: 12px;
+  background: #f8faff;
+}
+
+.account-summary-icon {
+  display: grid !important;
+  place-items: center;
+  flex-shrink: 0;
+  width: 34px;
+  height: 34px;
+  border-radius: 10px;
+  background: #e5edff;
+  color: var(--deep) !important;
+  font-weight: 800;
+}
+
+.account-summary-item b {
+  display: block;
+  overflow-wrap: anywhere;
+  color: var(--deep);
+  font-size: 16px;
+}
+
+.account-summary-item small {
+  display: block;
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 10px;
+}
+
+.account-detail-list {
+  border-top: 1px solid var(--border);
+}
+
+.account-detail-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 13px 0;
+  border-bottom: 1px solid #eef1f6;
+}
+
+.account-detail-row > div {
+  min-width: 0;
+}
+
+.detail-label {
+  flex-shrink: 0;
+  color: #667085 !important;
+  font-size: 10px !important;
+}
+
+.account-edit-button {
+  width: 100%;
+  margin-top: 18px;
+}
+
+.settings-col {
+  display: grid;
+  gap: 18px;
+}
+
+.settings-link {
+  width: 100%;
+  min-height: 58px;
+  padding: 14px 18px;
+  text-align: left;
+}
+
+.settings-link:hover {
+  background: #f8faff;
+}
+
+.setting {
+  gap: 12px;
+}
+
+.setting > span:nth-child(2) {
+  min-width: 0;
+}
+
+.setting small {
+  line-height: 1.5;
+}
+
+/* Group details page */
+
+#view-detail .back {
+  min-height: 42px;
+  margin-bottom: 16px;
+  color: var(--deep);
+}
+
+.detail-cover {
+  border-radius: 18px;
+  overflow: hidden;
+}
+
+.metrics {
+  gap: 12px;
+}
+
+.metric {
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 22px 0 16px;
+}
+
+.tab {
+  min-height: 42px;
+  padding: 9px 14px;
+  border-radius: 10px;
+}
+
+.tab.active {
+  background: var(--soft-blue);
+  color: var(--deep);
+  border-color: #c4d4f7;
+}
+
+/* Responsive layouts */
+
+@media (max-width: 900px) {
+  .profile-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .settings-col {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .discover-tools {
+    display: grid;
+  }
+
+  .discover-tools .filters {
+    width: 100%;
+  }
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 14px;
+  }
+
+  main {
+    min-width: 0;
+  }
+
+  .container {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+
+  .heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .heading > button {
+    width: 100%;
+  }
+
+  .discover-hero {
+    border-radius: 16px;
+    padding: 23px 19px;
+  }
+
+  .feature-stats {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .feature-stats > span:last-child {
+    grid-column: 1 / -1;
+  }
+
+  .filters {
+    gap: 7px;
+  }
+
+  .filter {
+    min-height: 40px;
+    padding: 8px 11px;
+  }
+
+  #view-groups .toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  #view-groups #groupFilter {
+    width: 100%;
+  }
+
+  .group-row {
+    display: grid;
+    grid-template-columns: 42px minmax(0, 1fr);
+    align-items: start;
+  }
+
+  .group-money {
+    grid-column: 2;
+    white-space: normal;
+  }
+
+  .profile-layout,
+  .settings-col {
+    grid-template-columns: 1fr;
+  }
+
+  .account-summary {
+    padding: 16px;
+  }
+
+  .account-summary-grid {
+    gap: 8px;
+  }
+
+  .account-summary-item {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .metrics {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-actions {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .detail-actions button {
+    width: 100%;
+  }
+
+  .tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    padding-bottom: 4px;
+  }
+
+  .tab {
+    flex-shrink: 0;
+  }
+
+  footer {
+    gap: 10px;
+    flex-direction: column;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Profile edit form refinements */
+
+.modal-form {
+  display: grid;
+  gap: 15px;
+}
+
+.modal-form .field {
+  display: grid;
+  gap: 7px;
+  color: var(--ink);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.modal-form .input {
+  width: 100%;
+  min-height: 44px;
+  padding: 11px 12px;
+  border: 1px solid #d9e0eb;
+  border-radius: 10px;
+  background: #fff;
+  color: var(--ink);
+}
+
+.modal-form .input:focus {
+  border-color: var(--blue);
+  outline: 3px solid #dce7ff;
+}
+
+.field-help {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.modal-form button[type="submit"] {
+  width: 100%;
+  margin-top: 4px;
+}
+
+/* Ensure only the selected page is visible. */
+.view {
+  display: none;
+  min-width: 0;
+}
+
+.view.active {
+  display: block;
+}
+
+/* Make clickable group cards and rows visibly interactive. */
+[data-open] {
+  cursor: pointer;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+/* Keep pages usable on narrow screens. */
+.container,
+.view,
+.cards,
+.panel,
+.profile-layout {
+  min-width: 0;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
+
+@media (max-width: 640px) {
+  .cards {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .view .heading {
+    gap: 12px;
+  }
+
+  .view .heading h1 {
+    font-size: 27px;
+  }
+}
+
+...............
+
+const CACHE="kafo-frontend-v1";const FILES=["./","./index.html","./styles.css","./app.js","./manifest.webmanifest","./assets/kafo-mark.svg"];self.addEventListener("install",e=>{e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)));self.skipWaiting()});self.addEventListener("activate",e=>{e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE).map(k=>caches.delete(k)))));self.clients.claim()});self.addEventListener("fetch",e=>{if(e.request.method!=="GET")return;e.respondWith(caches.match(e.request).then(hit=>hit||fetch(e.request).then(r=>{const copy=r.clone();caches.open(CACHE).then(c=>c.put(e.request,copy));return r}).catch(()=>caches.match("./index.html"))))});
+
+...........
+
+{
+  "name": "Kafo — Together, we make it happen",
+  "short_name": "Kafo",
+  "description": "Community contributions and group expense tracking.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#2457C5",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/kafo-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
